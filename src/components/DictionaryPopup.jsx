@@ -2,8 +2,8 @@
 import { useEffect, useState } from 'react';
 import { playTTS } from '../utils/tts';
 
-const OPENAI_KEY = import.meta.env.VITE_OPENAI_KEY;
 
+const OPENAI_KEY = import.meta.env.VITE_OPENAI_KEY;
 export default function DictionaryPopup({ selection, onClose, voiceName = 'en-GB-LibbyNeural', onAddToGlossary }) {
   const [definition, setDefinition] = useState('');
 
@@ -24,7 +24,6 @@ export default function DictionaryPopup({ selection, onClose, voiceName = 'en-GB
                 content: `You are an English learning assistant. When given a word or phrase or sentence, return the result in the following format:
 import React, { useState } from 'react';
 
-const OPENAI_KEY = import.meta.env.VITE_OPENAI_KEY;
 
 const DictionaryPopup = ({ selectedText, position, onClose }) => {
   const [definition, setDefinition] = useState(null);
