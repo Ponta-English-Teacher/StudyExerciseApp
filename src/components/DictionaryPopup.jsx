@@ -1,9 +1,9 @@
 // src/components/DictionaryPopup.jsx
 import { useEffect, useState } from 'react';
 import { playTTS } from '../utils/tts';
-
-
 const OPENAI_KEY = import.meta.env.VITE_OPENAI_KEY;
+
+
 export default function DictionaryPopup({ selection, onClose, voiceName = 'en-GB-LibbyNeural', onAddToGlossary }) {
   const [definition, setDefinition] = useState('');
 
