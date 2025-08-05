@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "title": "The Importance of Sleep for Teenagers",
+    "topic": "Health",
+    "level": "B1",
+    "tone": "Serious",
+    "original": "Teenagers today are often sleep-deprived due to busy school schedules, social activities, and screen time before bed. However, sleep plays a vital role in both mental and physical development. Experts recommend that teens get at least 8 to 10 hours of sleep each night, yet many are getting far less.\n\nA lack of sleep can lead to problems with concentration, mood, and academic performance. Long-term sleep deprivation is also linked to more serious health issues, such as obesity, depression, and a weakened immune system. Developing good sleep habits—like keeping a regular bedtime and avoiding screens late at night—can significantly improve overall well-being.",
+    "simplified": "Many teenagers don’t sleep enough. They are busy with school, friends, and using phones at night. But sleep is very important for the body and mind. Doctors say teenagers should sleep for 8 to 10 hours, but many do not.\n\nIf teenagers don’t sleep well, they may feel tired and sad. They may not do well in school. If this continues, it can cause health problems like getting sick more easily. It’s a good idea to sleep at the same time every night and not look at phones before bed.",
+    "questions": [
+      {
+        "type": "main_idea",
+        "question": "What is the main idea of this passage?",
+        "options": [
+          "Teenagers need more free time",
+          "Phones are bad for your eyes",
+          "Not enough sleep can cause problems",
+          "Teens should eat better"
+        ],
+        "answer": "Not enough sleep can cause problems",
+        "hint": "第一パラグラフの全体の意味を読み取ろう。子供はもっと『　　』すべき？"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does the word \"deprived\" most likely mean in the sentence: 'Teenagers today are often sleep-deprived due to busy school schedules...'",
+        "options": [
+          "full of",
+          "lacking or missing",
+          "excited",
+          "worried"
+        ],
+        "answer": "lacking or missing",
+        "hint": "この言葉は良い意味？悪い意味？眠れていないということは…？"
+      },
+      {
+        "type": "detail",
+        "question": "According to the passage, what are possible long-term effects of not sleeping enough?",
+        "options": [
+          "Improved energy and mood",
+          "Lower risk of disease",
+          "Obesity and a weak immune system",
+          "Better memory and stronger muscles"
+        ],
+        "answer": "Obesity and a weak immune system",
+        "hint": "第二パラグラフのリストに注目しよう。"
+      },
+      {
+        "type": "sentence_meaning",
+        "question": "What does this sentence mean? 'Developing good sleep habits—like keeping a regular bedtime and avoiding screens late at night—can significantly improve overall well-being.'",
+        "options": [
+          "Teenagers should stop sleeping to use their phones",
+          "Being healthy has nothing to do with sleep",
+          "Regular habits like sleep and avoiding screens help people stay healthy",
+          "Teens only need to eat well, not sleep well"
+        ],
+        "answer": "Regular habits like sleep and avoiding screens help people stay healthy",
+        "hint": "この文の例（就寝時間やスマホ）から意味を考えてみよう。"
+      },
+      {
+        "type": "true_false",
+        "question": "True or False: Doctors say teens should sleep at least 6 hours each night.",
+        "answer": "False",
+        "hint": "第一パラグラフにある数字を見てみよう。"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Role of Music in Our Lives",
+    "topic": "Culture",
+    "level": "B1",
+    "tone": "Neutral",
+    "original": "Music is an important part of every culture. It brings people together and expresses emotions. People listen to music when they are happy, sad, or need motivation.\n\nIn many countries, traditional music is played at festivals and ceremonies. Modern music connects global audiences. Whether it's classical, pop, or hip-hop, music helps people feel understood and inspired.",
+    "simplified": "Music is important in all cultures. It helps people share feelings. People listen to music when they are happy, sad, or need energy.\n\nIn many places, people play traditional music at festivals. New music styles are popular around the world. Music makes people feel good and connected.",
+    "questions": [
+      {
+        "type": "main_idea",
+        "question": "What is the main idea of this passage?",
+        "options": [
+          "Music makes people hungry.",
+          "Music is only for young people.",
+          "Music connects people and expresses feelings.",
+          "Music is only traditional."
+        ],
+        "answer": "Music connects people and expresses feelings.",
+        "hint": "第一パラグラフの意味を考えよう。なぜ人は音楽を聞く？"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does 'motivation' most likely mean?",
+        "options": [
+          "A type of music",
+          "Feeling tired",
+          "A reason to act or try",
+          "A festival name"
+        ],
+        "answer": "A reason to act or try",
+        "hint": "音楽を聞いて元気が出るということは…？"
+      },
+      {
+        "type": "detail",
+        "question": "According to the passage, how is traditional music used?",
+        "options": [
+          "To connect with global audiences",
+          "At festivals and ceremonies",
+          "Only in schools",
+          "To make people sleepy"
+        ],
+        "answer": "At festivals and ceremonies",
+        "hint": "第二パラグラフを読んでみよう。"
+      },
+      {
+        "type": "sentence_meaning",
+        "question": "What does this sentence mean? 'Whether it's classical, pop, or hip-hop, music helps people feel understood and inspired.'",
+        "options": [
+          "Only classical music is emotional",
+          "All music helps people feel something",
+          "Pop music is better than hip-hop",
+          "Music is confusing"
+        ],
+        "answer": "All music helps people feel something",
+        "hint": "クラシックでもヒップホップでも…どうなる？"
+      },
+      {
+        "type": "true_false",
+        "question": "True or False: Music is not important in ceremonies.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "False",
+        "hint": "traditional music の使い方を見てみよう。"
+      }
+    ]
+  }
+]
