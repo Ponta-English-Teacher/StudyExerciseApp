@@ -22,7 +22,6 @@ export default function DictionaryPopup({ selection, onClose, voiceName = 'en-GB
               {
                 role: 'system',
                 content: `You are an English learning assistant. When given a word or phrase or sentence, return the result in the following format:
-import React, { useState } from 'react';
 
 
 const DictionaryPopup = ({ selectedText, position, onClose }) => {
@@ -111,7 +110,6 @@ const DictionaryPopup = ({ selectedText, position, onClose }) => {
   );
 };
 
-export default DictionaryPopup;
 English: [A simple paraphrase or definition in clear English, like a Longman learner dictionary. Use one or two sentences only.]
 
 Japanese: [A concise, direct translation in natural Japanese. DO NOT explain or break down word by word. No grammar or usage commentary.]
