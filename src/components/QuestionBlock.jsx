@@ -3,7 +3,13 @@ import React, { useState } from 'react';
 const QuestionBlock = ({ question }) => {
   if (!question) return null; // ✅ Prevent crash if question is undefined
 
-  const { question: text, options, answer, hint } = question;
+  const { question: text, answer, hint, type } = question;
+  const options = question.options && question.options.length > 0
+    ? question.options
+    : type === "true_false"
+      ? ["True", "False"]
+      : null;
+
   const [selected, setSelected] = useState(null);
   const [showAnswer, setShowAnswer] = useState(false);
 
