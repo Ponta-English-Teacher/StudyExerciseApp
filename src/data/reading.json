@@ -134,89 +134,85 @@
     ]
   },
   {
-    "id": "reading004",
-    "topic": "Parenting",
-    "level": "B1",
-    "title": "Uncertainty in Parenting",
-    "original": "Raising children can be one of the most rewarding but uncertain tasks in life. There are many books and theories, but each child is unique, and what works for one might not work for another.\n\nParents often learn through daily experiences rather than perfect plans. Making mistakes and adjusting is part of the process, and there is no single right way to be a good parent.",
-    "simplified": "Raising children is not easy. Many parents read books, but each child is different. One way does not work for all children.\n\nParents learn by doing. They make mistakes and try again. There is no perfect way to raise a child.",
+    "id": "modern02",
+    "topic": "Modern World",
+    "cefr": "B1",
+    "title": "Knowing People in the Digital Age",
+    "original": "In the past, getting to know someone meant spending time together in person. We saw each other’s faces, heard each other’s voices, and shared real-life experiences. We learned about each other by talking, listening, and observing how people behaved in different situations.\n\nToday, many of our relationships start online. We read messages, see pictures, and follow people on social media. But we often don’t meet them in real life. We don’t know their faces, their voices, or even if they are real. Knowing someone now is different—it can feel close but also far away at the same time.",
+    "simplified": "In the past, we got to know people by meeting them in person. We saw their faces, heard their voices, and spent time together. We learned about them by watching how they acted.\n\nToday, we often meet people online. We see their messages and pictures but not their real faces or voices. Sometimes we don’t even know if they are real. Knowing someone is different now. It feels close, but also far.",
+    "glossary": [
+      {
+        "word": "real-life",
+        "definition": "happening in the real world, not online"
+      },
+      {
+        "word": "social media",
+        "definition": "websites and apps used to share information and connect with others"
+      },
+      {
+        "word": "follow",
+        "definition": "to subscribe to someone's updates online"
+      }
+    ],
     "questions": [
       {
-        "type": "mainIdea",
+        "type": "main-idea",
         "question": "What is the main idea of the passage?",
         "options": [
-          "Every child needs strict rules.",
-          "Parenting is a job with clear answers.",
-          "There is no single correct way to raise a child.",
-          "Parents should always follow expert advice."
+          "It is harder to truly know someone in the digital age.",
+          "People are more honest online than in real life.",
+          "Technology makes relationships stronger.",
+          "The author believes the past was better than the present."
         ],
-        "answer": "There is no single correct way to raise a child.",
-        "hint": "この文章が一番大事。親は子育てを通して学んでいく。"
+        "answer": 0,
+        "hint": "Compare how we knew people in the past and how we know them now."
       },
       {
         "type": "vocabulary",
-        "question": "What does 'adjusting' mean in the passage?",
+        "question": "What does 'real-life experiences' mean?",
         "options": [
-          "Giving up",
-          "Changing to improve",
-          "Making rules",
-          "Punishing children"
+          "Things that happen in dreams",
+          "Things that happen on the internet",
+          "Things that happen in the real world",
+          "Things that we see in movies"
         ],
-        "answer": "Changing to improve",
-        "hint": "良くするために何かを変えること。"
+        "answer": 2,
+        "hint": "Think about where these experiences happen—online or not?"
       },
       {
-        "type": "trueFalse",
-        "question": "Parents always follow a perfect plan when raising children. (True/False)",
-        "answer": "False",
-        "hint": "第二パラグラフを見てみよう。"
+        "type": "sentence-meaning",
+        "question": "What does “We don’t know their faces, their voices, or even if they are real.” mean?",
+        "options": [
+          "We don't like talking to people online.",
+          "We know too much about people on the internet.",
+          "We often don’t know what people look or sound like online.",
+          "Everyone online uses fake names and voices."
+        ],
+        "answer": 2,
+        "hint": "Think about what we miss when we don’t meet people in person."
       },
       {
-        "type": "sentenceMeaning",
-        "question": "What does 'Parents often learn through daily experiences rather than perfect plans.' mean?",
-        "answer": "Parents learn as they go, not by following perfect instructions.",
-        "hint": "日々の生活の中で学ぶという意味。"
+        "type": "true-false",
+        "question": "The author believes that it is impossible to really know anyone online.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": 1,
+        "hint": "The author talks about how different it is, but doesn’t say it’s impossible."
       },
       {
         "type": "comprehension",
-        "question": "Why is it hard to follow parenting books?",
+        "question": "According to the passage, how has our way of knowing others changed over time?",
         "options": [
-          "Books are expensive.",
-          "Each child is different.",
-          "Parents don’t like reading.",
-          "Books are too short."
+          "We used to know people in person, but now we often connect without seeing or hearing them.",
+          "In the past, people didn’t talk much, but now we meet in real life more.",
+          "People used to trust strangers online, but now they never do.",
+          "We used to only know family, but now we know everyone."
         ],
-        "answer": "Each child is different.",
-        "hint": "第一パラグラフの意味を読み取ろう。"
+        "answer": 0,
+        "hint": "Compare the two paragraphs. One describes the past, and one describes today."
       }
-    ],
-    "glossary": [
-      {
-        "word": "rewarding",
-        "definition": "giving satisfaction",
-        "translation": "やりがいのある"
-      },
-      {
-        "word": "uncertain",
-        "definition": "not clear or sure",
-        "translation": "不確かな"
-      },
-      {
-        "word": "unique",
-        "definition": "being the only one of its kind",
-        "translation": "独特な"
-      },
-      {
-        "word": "adjusting",
-        "definition": "changing to fit a situation",
-        "translation": "適応する"
-      },
-      {
-        "word": "process",
-        "definition": "a series of actions to achieve something",
-        "translation": "過程"
-      }
-    ],
-    "howToUse": "Read the original version first. If it is too difficult, read the simplified version. Try the questions after reading. Use the glossary if you don’t understand a word."
+    ]
   }
 ]
