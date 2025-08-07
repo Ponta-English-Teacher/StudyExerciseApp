@@ -1,156 +1,316 @@
-{
-  "readings": [
-    {
-      "id": 1,
-      "topic": "Modern World",
-      "title": "Uncertainty in Parenting",
-      "original": "Parenting can feel like walking in the dark. There are many books and experts offering advice, but each child is different. What works for one family may not work for another. Parents often feel unsure, even when trying their best.\n\nIn daily life, parents deal with real-time problems like calming a crying baby or solving school issues. There is no perfect manual. Parents learn as they go, making mistakes and growing with their children. That’s why parenting is often called the hardest job in the world.",
-      "simplified": "Parenting is not easy. Many books give advice, but each child is different. Parents often do not know what to do.\n\nIn real life, parents must help children right away. There is no perfect guide. Parents learn by doing and make mistakes. They grow with their children.",
-      "questions": [
-        {
-          "type": "mainIdea",
-          "question": "What is the main idea of the passage?",
-          "options": [
-            "There are many perfect books on parenting.",
-            "Parents never know what they are doing.",
-            "Parenting is full of uncertainty and learning.",
-            "All children are the same."
-          ],
-          "answer": "Parenting is full of uncertainty and learning.",
-          "hint": "Focus on what the passage says about learning through parenting."
-        },
-        {
-          "type": "vocab",
-          "question": "What does 'real-time problems' most likely mean in the passage?",
-          "options": [
-            "Problems that happen during a TV show.",
-            "Problems that need quick action in daily life.",
-            "Problems that experts solve in books.",
-            "Problems that are not real."
-          ],
-          "answer": "Problems that need quick action in daily life.",
-          "hint": "Look at how parents must respond immediately."
-        },
-        {
-          "type": "trueFalse",
-          "question": "True or False: The passage says every child is the same.",
-          "answer": "False",
-          "hint": "Check the first paragraph."
-        },
-        {
-          "type": "sentenceMeaning",
-          "question": "What does 'Parenting can feel like walking in the dark' mean?",
-          "options": [
-            "It is usually done at night.",
-            "Parents know exactly what to do.",
-            "It can be confusing and uncertain.",
-            "It is about going outside with children."
-          ],
-          "answer": "It can be confusing and uncertain.",
-          "hint": "Think about what it means to walk in the dark."
-        },
-        {
-          "type": "comprehension",
-          "question": "Why is there no perfect manual for parenting?",
-          "options": [
-            "Because books are not sold anymore.",
-            "Because parenting is easy.",
-            "Because each family and child is different.",
-            "Because no one wants a guide."
-          ],
-          "answer": "Because each family and child is different.",
-          "hint": "Focus on the variety mentioned in the first paragraph."
-        }
-      ],
-      "glossary": [
-        {
-          "word": "real-time",
-          "definition": "happening immediately as things occur",
-          "translation": "リアルタイムで"
-        },
-        {
-          "word": "manual",
-          "definition": "a book of instructions",
-          "translation": "手引き、マニュアル"
-        }
-      ],
-      "howToUse": "Use this passage to explore how uncertainty affects parenting. Discuss different experiences of parents and how they learn through real situations."
-    },
-    {
-      "id": 2,
-      "topic": "Modern World",
-      "title": "The Meaning of Knowing People",
-      "original": "In the past, knowing someone meant seeing them often. You knew their face, voice, and how they acted. You talked to them in person, shared meals, and saw how they treated others. Friendship and trust grew through time spent together.\n\nToday, we often 'know' people online. We read their posts, see pictures, and send messages. But we don’t know their faces, their voices, or even if they are real. The way we connect has changed. We must think about what it really means to know someone.",
-      "simplified": "Before, knowing someone meant seeing their face and talking with them often. You spent time together in real life.\n\nNow, we often meet people online. We see pictures and messages, but we don’t know their face or voice. We should think about what 'knowing someone' really means.",
-      "questions": [
-        {
-          "type": "mainIdea",
-          "question": "What is the main idea of the passage?",
-          "options": [
-            "People do not eat together anymore.",
-            "We know people better now than before.",
-            "Knowing people has not changed.",
-            "The way we know people has changed."
-          ],
-          "answer": "The way we know people has changed.",
-          "hint": "Look at how the past and present are compared."
-        },
-        {
-          "type": "vocab",
-          "question": "What does 'connect' most likely mean in the second paragraph?",
-          "options": [
-            "To build something with tools.",
-            "To meet and feel close to people.",
-            "To fix something broken.",
-            "To run quickly."
-          ],
-          "answer": "To meet and feel close to people.",
-          "hint": "Think about how we ‘connect’ with others."
-        },
-        {
-          "type": "trueFalse",
-          "question": "True or False: The passage says we always know people’s real faces online.",
-          "answer": "False",
-          "hint": "Check the second paragraph."
-        },
-        {
-          "type": "sentenceMeaning",
-          "question": "What does “We don’t know their faces, their voices, or even if they are real.” mean?",
-          "options": [
-            "We know people too well.",
-            "Everyone online uses fake names and voices.",
-            "We often don’t know the physical appearance or real identity of people online.",
-            "People online are always real friends."
-          ],
-          "answer": "We often don’t know the physical appearance or real identity of people online.",
-          "hint": "The sentence says what is missing in online contact."
-        },
-        {
-          "type": "comprehension",
-          "question": "Does the passage say the modern way of knowing people is good or bad?",
-          "options": [
-            "Good",
-            "Bad",
-            "Both good and bad",
-            "The author does not say clearly"
-          ],
-          "answer": "The author does not say clearly",
-          "hint": "Think about whether the writer gives a judgment."
-        }
-      ],
-      "glossary": [
-        {
-          "word": "connect",
-          "definition": "to join or feel close to someone",
-          "translation": "つながる、親しくなる"
-        },
-        {
-          "word": "identity",
-          "definition": "who someone really is",
-          "translation": "正体、身元"
-        }
-      ],
-      "howToUse": "Use this passage to talk about how relationships have changed in the digital world. Ask students how they define 'knowing' someone today."
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "The Importance of Sleep for Teenagers",
+    "topic": "Health",
+    "level": "B1",
+    "tone": "Serious",
+    "original": "Teenagers today are often sleep-deprived due to busy school schedules, social activities, and screen time before bed. However, sleep plays a vital role in both mental and physical development. Experts recommend that teens get at least 8 to 10 hours of sleep each night, yet many are getting far less.\n\nA lack of sleep can lead to problems with concentration, mood, and academic performance. Long-term sleep deprivation is also linked to more serious health issues, such as obesity, depression, and a weakened immune system. Developing good sleep habits—like keeping a regular bedtime and avoiding screens late at night—can significantly improve overall well-being.",
+    "simplified": "Many teenagers don’t sleep enough. They are busy with school, friends, and using phones at night. But sleep is very important for the body and mind. Doctors say teenagers should sleep for 8 to 10 hours, but many do not.\n\nIf teenagers don’t sleep well, they may feel tired and sad. They may not do well in school. If this continues, it can cause health problems like getting sick more easily. It’s a good idea to sleep at the same time every night and not look at phones before bed.",
+    "questions": [
+      {
+        "type": "main_idea",
+        "question": "What is the main idea of this passage?",
+        "options": [
+          "Teenagers need more free time",
+          "Phones are bad for your eyes",
+          "Not enough sleep can cause problems",
+          "Teens should eat better"
+        ],
+        "answer": "Not enough sleep can cause problems",
+        "hint": "第一パラグラフの全体の意味を読み取ろう。子供はもっと『　　』すべき？"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does the word \"deprived\" most likely mean in the sentence: 'Teenagers today are often sleep-deprived due to busy school schedules...'",
+        "options": [
+          "full of",
+          "lacking or missing",
+          "excited",
+          "worried"
+        ],
+        "answer": "lacking or missing",
+        "hint": "この言葉は良い意味？悪い意味？眠れていないということは…？"
+      },
+      {
+        "type": "detail",
+        "question": "According to the passage, what are possible long-term effects of not sleeping enough?",
+        "options": [
+          "Improved energy and mood",
+          "Lower risk of disease",
+          "Obesity and a weak immune system",
+          "Better memory and stronger muscles"
+        ],
+        "answer": "Obesity and a weak immune system",
+        "hint": "第二パラグラフのリストに注目しよう。"
+      },
+      {
+        "type": "sentence_meaning",
+        "question": "What does this sentence mean? 'Developing good sleep habits—like keeping a regular bedtime and avoiding screens late at night—can significantly improve overall well-being.'",
+        "options": [
+          "Teenagers should stop sleeping to use their phones",
+          "Being healthy has nothing to do with sleep",
+          "Regular habits like sleep and avoiding screens help people stay healthy",
+          "Teens only need to eat well, not sleep well"
+        ],
+        "answer": "Regular habits like sleep and avoiding screens help people stay healthy",
+        "hint": "この文の例（就寝時間やスマホ）から意味を考えてみよう。"
+      },
+      {
+        "type": "true_false",
+        "question": "True or False: Doctors say teens should sleep at least 6 hours each night.",
+        "answer": "False",
+        "hint": "第一パラグラフにある数字を見てみよう。"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Role of Music in Our Lives",
+    "topic": "Culture",
+    "level": "B1",
+    "tone": "Neutral",
+    "original": "Music is an important part of every culture. It brings people together and expresses emotions. People listen to music when they are happy, sad, or need motivation.\n\nIn many countries, traditional music is played at festivals and ceremonies. Modern music connects global audiences. Whether it's classical, pop, or hip-hop, music helps people feel understood and inspired.",
+    "simplified": "Music is important in all cultures. It helps people share feelings. People listen to music when they are happy, sad, or need energy.\n\nIn many places, people play traditional music at festivals. New music styles are popular around the world. Music makes people feel good and connected.",
+    "questions": [
+      {
+        "type": "main_idea",
+        "question": "What is the main idea of this passage?",
+        "options": [
+          "Music makes people hungry.",
+          "Music is only for young people.",
+          "Music connects people and expresses feelings.",
+          "Music is only traditional."
+        ],
+        "answer": "Music connects people and expresses feelings.",
+        "hint": "第一パラグラフの意味を考えよう。なぜ人は音楽を聞く？"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does 'motivation' most likely mean?",
+        "options": [
+          "A type of music",
+          "Feeling tired",
+          "A reason to act or try",
+          "A festival name"
+        ],
+        "answer": "A reason to act or try",
+        "hint": "音楽を聞いて元気が出るということは…？"
+      },
+      {
+        "type": "detail",
+        "question": "According to the passage, how is traditional music used?",
+        "options": [
+          "To connect with global audiences",
+          "At festivals and ceremonies",
+          "Only in schools",
+          "To make people sleepy"
+        ],
+        "answer": "At festivals and ceremonies",
+        "hint": "第二パラグラフを読んでみよう。"
+      },
+      {
+        "type": "sentence_meaning",
+        "question": "What does this sentence mean? 'Whether it's classical, pop, or hip-hop, music helps people feel understood and inspired.'",
+        "options": [
+          "Only classical music is emotional",
+          "All music helps people feel something",
+          "Pop music is better than hip-hop",
+          "Music is confusing"
+        ],
+        "answer": "All music helps people feel something",
+        "hint": "クラシックでもヒップホップでも…どうなる？"
+      },
+      {
+        "type": "true_false",
+        "question": "True or False: Music is not important in ceremonies.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "answer": "False",
+        "hint": "traditional music の使い方を見てみよう。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "Modern World",
+    "title": "Uncertainty in Parenting",
+    "original": "Parenting is full of uncertainty. Many books promise to teach how to raise a successful child, but they often reflect only the author's own experience. Each child is different, and what works for one may not work for another.\n\nParents must solve problems in real-time—soothing a crying baby or handling a child's tantrum—without the help of a manual. They often feel unprepared, like amateurs learning as they go. There is no perfect path, only the desire to do what’s best.",
+    "simplified": "There are many books about how to raise children. But each child is different, and the books don't always help. What worked for one parent may not work for others.\n\nParents have to take care of problems like crying or changing diapers right away. They can't look at books in those moments. Parents learn by doing. There is no one correct way to raise children.",
+    "questions": [
+      {
+        "type": "mainIdea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "A. Parenting is easy if you read the right books.",
+          "B. Every parent should follow expert advice.",
+          "C. Parenting is full of uncertainty and personal experience.",
+          "D. Children behave the same in most situations."
+        ],
+        "answer": "C",
+        "hint": "第一パラグラフの全体の意味を読み取ろう。子供はもっと『　　』すべき？"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does 'real-time' most likely mean in the passage?",
+        "options": [
+          "A. At a later time.",
+          "B. As things happen.",
+          "C. After reading a book.",
+          "D. Without thinking."
+        ],
+        "answer": "B",
+        "hint": "『They must solve problems in real-time』と書かれているので、文脈から意味を考えてみよう。"
+      },
+      {
+        "type": "trueFalse",
+        "question": "True or False: The passage says that parenting books always help.",
+        "answer": "False",
+        "hint": "本文には『they often reflect only the author's own experience』とある。"
+      },
+      {
+        "type": "sentenceMeaning",
+        "question": "What does 'like amateurs learning as they go' mean?",
+        "options": [
+          "A. Parents are professionals with lots of training.",
+          "B. Parents study books before taking action.",
+          "C. Parents make mistakes and improve over time.",
+          "D. Parents do nothing when children cry."
+        ],
+        "answer": "C",
+        "hint": "amateur は初心者という意味。文の流れから、何を伝えたいか考えよう。"
+      },
+      {
+        "type": "comprehension",
+        "question": "Why does the passage say there is no perfect path?",
+        "options": [
+          "A. Because all children follow the same rules.",
+          "B. Because parents never make mistakes.",
+          "C. Because each parenting experience is different.",
+          "D. Because parenting books are always wrong."
+        ],
+        "answer": "C",
+        "hint": "なぜ『there is no perfect path』と言っているのか、直後の文に注目。"
+      }
+    ],
+    "glossary": [
+      {
+        "word": "uncertainty",
+        "definition": "not knowing what will happen",
+        "translation": "不確かさ"
+      },
+      {
+        "word": "real-time",
+        "definition": "happening at the moment",
+        "translation": "リアルタイムで"
+      },
+      {
+        "word": "amateurs",
+        "definition": "people who are not experts",
+        "translation": "素人"
+      },
+      {
+        "word": "manual",
+        "definition": "a book with instructions",
+        "translation": "マニュアル"
+      },
+      {
+        "word": "path",
+        "definition": "a way or direction",
+        "translation": "道"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "Modern World",
+    "title": "The Meaning of Knowing People",
+    "original": "In the past, we knew people by their faces, voices, and daily actions. We recognized neighbors in the street, talked to classmates in person, and knew what our friends liked and did.\n\nToday, things have changed. We often interact online, sometimes without seeing a face or hearing a real voice. We may not know if the person truly exists or what they do in real life. While we can connect with more people now, it’s harder to feel that we truly know them.",
+    "simplified": "Before, we knew people by seeing them and talking to them. We could see our neighbors and friends and understand what they liked.\n\nNow, we often talk online. We do not see people’s faces or hear their voices. Sometimes, we do not even know if they are real. It is easy to meet many people, but it is hard to really know them.",
+    "questions": [
+      {
+        "type": "mainIdea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "A. People no longer care about friendships.",
+          "B. Online communication is always better.",
+          "C. Knowing people has become harder in modern times.",
+          "D. We should only meet people online."
+        ],
+        "answer": "C",
+        "hint": "この文章が一番大事：『While we can connect with more people now, it’s harder to feel that we truly know them.』"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does 'interact' mean in the passage?",
+        "options": [
+          "A. Talk or do things with someone",
+          "B. Look for someone’s name",
+          "C. Argue online",
+          "D. Send photos to others"
+        ],
+        "answer": "A",
+        "hint": "『interact online』と書いてあるので、意味を考えてみよう。"
+      },
+      {
+        "type": "trueFalse",
+        "question": "True or False: The author says modern ways of communication are always bad.",
+        "answer": "False",
+        "hint": "著者は modern ways of communication を否定しているかどうか、全体を見て考えてみよう。"
+      },
+      {
+        "type": "sentenceMeaning",
+        "question": "What does 'We don’t know their faces, their voices, or even if they are real.' mean?",
+        "options": [
+          "A. Everyone online is pretending.",
+          "B. We never hear voices online.",
+          "C. We often don’t know people’s physical features or if they are real.",
+          "D. The internet hides all information about people."
+        ],
+        "answer": "C",
+        "hint": "ここで言いたいのは、顔や声など『physical features』が分からないということ。"
+      },
+      {
+        "type": "comprehension",
+        "question": "Why is it harder to feel we know people today?",
+        "options": [
+          "A. Because we only meet people face to face.",
+          "B. Because we can no longer talk to people.",
+          "C. Because we interact with many people only online.",
+          "D. Because we see too many neighbors daily."
+        ],
+        "answer": "C",
+        "hint": "第二パラグラフを読んで、なぜ『truly know』するのが難しいのかを考えよう。"
+      }
+    ],
+    "glossary": [
+      {
+        "word": "interact",
+        "definition": "to talk or do things with others",
+        "translation": "交流する"
+      },
+      {
+        "word": "truly",
+        "definition": "really; in a true way",
+        "translation": "本当に"
+      },
+      {
+        "word": "exist",
+        "definition": "to be real",
+        "translation": "存在する"
+      },
+      {
+        "word": "neighbor",
+        "definition": "a person who lives near you",
+        "translation": "近所の人"
+      },
+      {
+        "word": "connect",
+        "definition": "to join or link with someone",
+        "translation": "つながる"
+      }
+    ]
+  }
+]
