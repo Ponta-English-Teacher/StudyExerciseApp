@@ -132,5 +132,91 @@
         "hint": "traditional music の使い方を見てみよう。"
       }
     ]
+  },
+  {
+    "id": "reading004",
+    "topic": "Parenting",
+    "level": "B1",
+    "title": "Uncertainty in Parenting",
+    "original": "Raising children can be one of the most rewarding but uncertain tasks in life. There are many books and theories, but each child is unique, and what works for one might not work for another.\n\nParents often learn through daily experiences rather than perfect plans. Making mistakes and adjusting is part of the process, and there is no single right way to be a good parent.",
+    "simplified": "Raising children is not easy. Many parents read books, but each child is different. One way does not work for all children.\n\nParents learn by doing. They make mistakes and try again. There is no perfect way to raise a child.",
+    "questions": [
+      {
+        "type": "mainIdea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Every child needs strict rules.",
+          "Parenting is a job with clear answers.",
+          "There is no single correct way to raise a child.",
+          "Parents should always follow expert advice."
+        ],
+        "answer": "There is no single correct way to raise a child.",
+        "hint": "この文章が一番大事。親は子育てを通して学んでいく。"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does 'adjusting' mean in the passage?",
+        "options": [
+          "Giving up",
+          "Changing to improve",
+          "Making rules",
+          "Punishing children"
+        ],
+        "answer": "Changing to improve",
+        "hint": "良くするために何かを変えること。"
+      },
+      {
+        "type": "trueFalse",
+        "question": "Parents always follow a perfect plan when raising children. (True/False)",
+        "answer": "False",
+        "hint": "第二パラグラフを見てみよう。"
+      },
+      {
+        "type": "sentenceMeaning",
+        "question": "What does 'Parents often learn through daily experiences rather than perfect plans.' mean?",
+        "answer": "Parents learn as they go, not by following perfect instructions.",
+        "hint": "日々の生活の中で学ぶという意味。"
+      },
+      {
+        "type": "comprehension",
+        "question": "Why is it hard to follow parenting books?",
+        "options": [
+          "Books are expensive.",
+          "Each child is different.",
+          "Parents don’t like reading.",
+          "Books are too short."
+        ],
+        "answer": "Each child is different.",
+        "hint": "第一パラグラフの意味を読み取ろう。"
+      }
+    ],
+    "glossary": [
+      {
+        "word": "rewarding",
+        "definition": "giving satisfaction",
+        "translation": "やりがいのある"
+      },
+      {
+        "word": "uncertain",
+        "definition": "not clear or sure",
+        "translation": "不確かな"
+      },
+      {
+        "word": "unique",
+        "definition": "being the only one of its kind",
+        "translation": "独特な"
+      },
+      {
+        "word": "adjusting",
+        "definition": "changing to fit a situation",
+        "translation": "適応する"
+      },
+      {
+        "word": "process",
+        "definition": "a series of actions to achieve something",
+        "translation": "過程"
+      }
+    ],
+    "howToUse": "Read the original version first. If it is too difficult, read the simplified version. Try the questions after reading. Use the glossary if you don’t understand a word."
   }
 ]
