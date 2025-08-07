@@ -312,5 +312,70 @@
         "translation": "つながる"
       }
     ]
+  },
+  {
+    "id": 5,
+    "title": "Preserving Democracy in Changing Times",
+    "topic": "Politics",
+    "level": "B2",
+    "tone": "Serious",
+    "original": "In recent years, many countries have seen a decline in democratic values. People are losing trust in elections, political leaders, and the media. Some governments restrict freedom of speech or weaken the independence of courts. These actions slowly erode the foundation of democracy, even when they are done through legal means. When citizens stop paying attention or believe their voices no longer matter, democracy begins to fail.\n\nTo preserve democracy, active participation is essential. Voting is important, but it is only the beginning. Citizens must stay informed, speak out against injustice, and support institutions that protect rights and freedoms. Democracy is not just a system of government. It is not something simply given to us — it was gained through the struggles and sacrifices of many people. When we defend truth, fairness, and accountability, we honor their efforts and help keep democracy alive for future generations.",
+    "simplified": "In some countries, people are losing trust in democracy. They do not believe in elections or leaders. Some governments stop free speech or control the courts. These things make democracy weaker. If people stop caring or think their voices do not matter, democracy can break.\n\nTo keep democracy strong, people must take action. Voting is important, but it is not enough. People should stay informed, speak up when things are unfair, and protect human rights. Democracy was not always here. Many people fought and died for it. We must protect it for the future.",
+    "questions": [
+      {
+        "type": "mainIdea",
+        "question": "What is the main idea of this passage?",
+        "options": [
+          "A. People no longer need to vote.",
+          "B. Democracy is safe around the world.",
+          "C. Democracy must be protected by the people.",
+          "D. Governments always protect people’s rights."
+        ],
+        "answer": "C",
+        "hint": "第一パラグラフと第二パラグラフのつながりに注目しよう。"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does the word \"sacrifices\" most likely mean in the sentence: 'It was gained through the struggles and sacrifices of many people.'",
+        "options": [
+          "A. Money people gave to the government",
+          "B. Things people gave up or lost for something important",
+          "C. Mistakes people made in the past",
+          "D. Traditions from older times"
+        ],
+        "answer": "B",
+        "hint": "文の流れを考えよう。democracy を得るために、人々は何をした？"
+      },
+      {
+        "type": "trueFalse",
+        "question": "True or False: Some governments today try to weaken democracy using legal methods.",
+        "answer": "True",
+        "hint": "『These actions slowly erode the foundation of democracy』の意味を考えよう。"
+      },
+      {
+        "type": "sentenceMeaning",
+        "question": "What does this sentence mean? 'Democracy is not something simply given to us — it was gained through the struggles and sacrifices of many people.'",
+        "options": [
+          "A. Democracy is free and easy to keep.",
+          "B. Democracy was created by the government alone.",
+          "C. People had to fight and suffer to build democracy.",
+          "D. Most people do not care about democracy."
+        ],
+        "answer": "C",
+        "hint": "struggles や sacrifices の意味とつながりに注目しよう。"
+      },
+      {
+        "type": "comprehension",
+        "question": "Why does the passage say we must defend truth, fairness, and accountability?",
+        "options": [
+          "A. To follow government rules",
+          "B. To win elections more easily",
+          "C. To make media more popular",
+          "D. To protect democracy and honor people who fought for it"
+        ],
+        "answer": "D",
+        "hint": "なぜ『truth, fairness, and accountability』を守る必要があるのか、最後の文を読んで考えよう。"
+      }
+    ]
   }
 ]
