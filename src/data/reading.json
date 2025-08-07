@@ -1,144 +1,156 @@
-[
-  {
-    "id": 1,
-    "topic": "Importance of Knowing People",
-    "level": "B1",
-    "category": "Modern World",
-    "original": "In the past, people knew each other in person. They met at school, in their neighborhoods, or through friends. They saw each other’s faces, heard their voices, and spent time together. Knowing someone meant sharing time and experiences.\n\nToday, things are different. Many relationships begin and stay online. We chat through messages and see pictures, but we don’t know their faces, their voices, or even if they are real. It’s easy to connect, but it’s hard to truly know someone. The way we know people has changed a lot.",
-    "simplified": "Before, people met in person and became friends by spending time together. They saw each other’s faces and heard their voices.\n\nNow, many people talk online. They send messages and see pictures, but they don’t always know what the other person looks like or sounds like. Sometimes, they don’t even know if the person is real. It’s easy to meet people, but it’s harder to really know them.",
-    "questions": [
-      {
-        "type": "mainIdea",
-        "question": "What is the main idea of this passage?",
-        "choices": [
-          "We should go outside more to make friends.",
-          "Technology makes friendships stronger.",
-          "It is harder to truly know someone in the digital age.",
-          "Making friends online is better than in person."
-        ],
-        "answer": 2,
-        "hint": "The passage explains how relationships have changed from in-person to online, and what is missing now."
-      },
-      {
-        "type": "vocab",
-        "question": "What does 'truly know someone' mean?",
-        "choices": [
-          "To know someone’s full name and age.",
-          "To have deep understanding and connection with someone.",
-          "To follow someone online.",
-          "To recognize someone’s face."
-        ],
-        "answer": 1,
-        "hint": "Think about what it means to really understand a person, not just their name or face."
-      },
-      {
-        "type": "trueFalse",
-        "question": "True or False: The author says that modern ways of knowing people are better.",
-        "answer": "False",
-        "hint": "The author doesn’t clearly say it is better or worse."
-      },
-      {
-        "type": "sentenceMeaning",
-        "question": "What does “We don’t know their faces, their voices, or even if they are real.” mean?",
-        "choices": [
-          "We always talk to strangers online.",
-          "We never show our faces when talking online.",
-          "We often don’t know the physical features or real identity of people online.",
-          "Everyone online uses fake names and voices."
-        ],
-        "answer": 2,
-        "hint": "The sentence talks about what is missing in online communication."
-      },
-      {
-        "type": "comprehension",
-        "question": "How has the way we know people changed?",
-        "choices": [
-          "We talk more face to face now.",
-          "People write letters to each other.",
-          "We now meet and talk more online.",
-          "We make fewer friends today."
-        ],
-        "answer": 2,
-        "hint": "Think about what the passage says about modern relationships."
-      }
-    ],
-    "glossary": [
-      "neighborhoods",
-      "experiences",
-      "connect",
-      "truly",
-      "identity"
-    ]
-  },
-  {
-    "id": 2,
-    "topic": "Uncertainty in Parenting",
-    "level": "B1",
-    "category": "Society",
-    "original": "Parenting is full of questions and doubts. Many people read books or watch videos about how to raise children. These resources often share ideas on making kids smart or successful. But what works for one child might not work for another. Every child is different, and every parent faces different problems. There is no perfect guide.\n\nMost of parenting is learned through daily life. Parents comfort crying babies, clean up messes, and make quick decisions. They do their best, but often feel unsure. Being a parent doesn’t come with one clear answer. It’s a journey full of learning and change.",
-    "simplified": "Parents often don’t know the best way to raise children. Books and videos give advice, but each child is different. What works for one may not work for another.\n\nParents learn by doing. They care for crying babies and make many choices every day. There is no perfect way. Parents do their best and learn over time.",
-    "questions": [
-      {
-        "type": "mainIdea",
-        "question": "What is the main idea of the passage?",
-        "choices": [
-          "Parents should read more books about parenting.",
-          "There is no single correct way to raise children.",
-          "Only experts know how to raise children.",
-          "All parents must follow the same rules."
-        ],
-        "answer": 1,
-        "hint": "The passage talks about how each child and situation is different."
-      },
-      {
-        "type": "vocab",
-        "question": "What does 'There is no perfect guide' mean?",
-        "choices": [
-          "There are no books on parenting.",
-          "No one wants to be a parent.",
-          "Every situation needs a different answer.",
-          "Children do not like rules."
-        ],
-        "answer": 2,
-        "hint": "Think about what 'perfect guide' means in the context of parenting advice."
-      },
-      {
-        "type": "trueFalse",
-        "question": "True or False: All parenting books work for every child.",
-        "answer": "False",
-        "hint": "The passage says children are different."
-      },
-      {
-        "type": "sentenceMeaning",
-        "question": "What does 'Being a parent doesn’t come with one clear answer' mean?",
-        "choices": [
-          "Parents must study a lot.",
-          "There are many ways to be a good parent.",
-          "Only teachers can be good parents.",
-          "There is one best way to raise kids."
-        ],
-        "answer": 1,
-        "hint": "Think about the idea of uncertainty in parenting."
-      },
-      {
-        "type": "comprehension",
-        "question": "How do parents mostly learn how to raise children?",
-        "choices": [
-          "By watching TV.",
-          "By reading books.",
-          "By practicing daily life with their child.",
-          "By asking other parents."
-        ],
-        "answer": 2,
-        "hint": "The passage talks about learning through experience."
-      }
-    ],
-    "glossary": [
-      "resources",
-      "successful",
-      "comfort",
-      "decisions",
-      "unsure"
-    ]
-  }
-]
+{
+  "readings": [
+    {
+      "id": 1,
+      "topic": "Modern World",
+      "title": "Uncertainty in Parenting",
+      "original": "Parenting can feel like walking in the dark. There are many books and experts offering advice, but each child is different. What works for one family may not work for another. Parents often feel unsure, even when trying their best.\n\nIn daily life, parents deal with real-time problems like calming a crying baby or solving school issues. There is no perfect manual. Parents learn as they go, making mistakes and growing with their children. That’s why parenting is often called the hardest job in the world.",
+      "simplified": "Parenting is not easy. Many books give advice, but each child is different. Parents often do not know what to do.\n\nIn real life, parents must help children right away. There is no perfect guide. Parents learn by doing and make mistakes. They grow with their children.",
+      "questions": [
+        {
+          "type": "mainIdea",
+          "question": "What is the main idea of the passage?",
+          "options": [
+            "There are many perfect books on parenting.",
+            "Parents never know what they are doing.",
+            "Parenting is full of uncertainty and learning.",
+            "All children are the same."
+          ],
+          "answer": "Parenting is full of uncertainty and learning.",
+          "hint": "Focus on what the passage says about learning through parenting."
+        },
+        {
+          "type": "vocab",
+          "question": "What does 'real-time problems' most likely mean in the passage?",
+          "options": [
+            "Problems that happen during a TV show.",
+            "Problems that need quick action in daily life.",
+            "Problems that experts solve in books.",
+            "Problems that are not real."
+          ],
+          "answer": "Problems that need quick action in daily life.",
+          "hint": "Look at how parents must respond immediately."
+        },
+        {
+          "type": "trueFalse",
+          "question": "True or False: The passage says every child is the same.",
+          "answer": "False",
+          "hint": "Check the first paragraph."
+        },
+        {
+          "type": "sentenceMeaning",
+          "question": "What does 'Parenting can feel like walking in the dark' mean?",
+          "options": [
+            "It is usually done at night.",
+            "Parents know exactly what to do.",
+            "It can be confusing and uncertain.",
+            "It is about going outside with children."
+          ],
+          "answer": "It can be confusing and uncertain.",
+          "hint": "Think about what it means to walk in the dark."
+        },
+        {
+          "type": "comprehension",
+          "question": "Why is there no perfect manual for parenting?",
+          "options": [
+            "Because books are not sold anymore.",
+            "Because parenting is easy.",
+            "Because each family and child is different.",
+            "Because no one wants a guide."
+          ],
+          "answer": "Because each family and child is different.",
+          "hint": "Focus on the variety mentioned in the first paragraph."
+        }
+      ],
+      "glossary": [
+        {
+          "word": "real-time",
+          "definition": "happening immediately as things occur",
+          "translation": "リアルタイムで"
+        },
+        {
+          "word": "manual",
+          "definition": "a book of instructions",
+          "translation": "手引き、マニュアル"
+        }
+      ],
+      "howToUse": "Use this passage to explore how uncertainty affects parenting. Discuss different experiences of parents and how they learn through real situations."
+    },
+    {
+      "id": 2,
+      "topic": "Modern World",
+      "title": "The Meaning of Knowing People",
+      "original": "In the past, knowing someone meant seeing them often. You knew their face, voice, and how they acted. You talked to them in person, shared meals, and saw how they treated others. Friendship and trust grew through time spent together.\n\nToday, we often 'know' people online. We read their posts, see pictures, and send messages. But we don’t know their faces, their voices, or even if they are real. The way we connect has changed. We must think about what it really means to know someone.",
+      "simplified": "Before, knowing someone meant seeing their face and talking with them often. You spent time together in real life.\n\nNow, we often meet people online. We see pictures and messages, but we don’t know their face or voice. We should think about what 'knowing someone' really means.",
+      "questions": [
+        {
+          "type": "mainIdea",
+          "question": "What is the main idea of the passage?",
+          "options": [
+            "People do not eat together anymore.",
+            "We know people better now than before.",
+            "Knowing people has not changed.",
+            "The way we know people has changed."
+          ],
+          "answer": "The way we know people has changed.",
+          "hint": "Look at how the past and present are compared."
+        },
+        {
+          "type": "vocab",
+          "question": "What does 'connect' most likely mean in the second paragraph?",
+          "options": [
+            "To build something with tools.",
+            "To meet and feel close to people.",
+            "To fix something broken.",
+            "To run quickly."
+          ],
+          "answer": "To meet and feel close to people.",
+          "hint": "Think about how we ‘connect’ with others."
+        },
+        {
+          "type": "trueFalse",
+          "question": "True or False: The passage says we always know people’s real faces online.",
+          "answer": "False",
+          "hint": "Check the second paragraph."
+        },
+        {
+          "type": "sentenceMeaning",
+          "question": "What does “We don’t know their faces, their voices, or even if they are real.” mean?",
+          "options": [
+            "We know people too well.",
+            "Everyone online uses fake names and voices.",
+            "We often don’t know the physical appearance or real identity of people online.",
+            "People online are always real friends."
+          ],
+          "answer": "We often don’t know the physical appearance or real identity of people online.",
+          "hint": "The sentence says what is missing in online contact."
+        },
+        {
+          "type": "comprehension",
+          "question": "Does the passage say the modern way of knowing people is good or bad?",
+          "options": [
+            "Good",
+            "Bad",
+            "Both good and bad",
+            "The author does not say clearly"
+          ],
+          "answer": "The author does not say clearly",
+          "hint": "Think about whether the writer gives a judgment."
+        }
+      ],
+      "glossary": [
+        {
+          "word": "connect",
+          "definition": "to join or feel close to someone",
+          "translation": "つながる、親しくなる"
+        },
+        {
+          "word": "identity",
+          "definition": "who someone really is",
+          "translation": "正体、身元"
+        }
+      ],
+      "howToUse": "Use this passage to talk about how relationships have changed in the digital world. Ask students how they define 'knowing' someone today."
+    }
+  ]
+}
