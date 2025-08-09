@@ -47,9 +47,9 @@ const PassageViewer = ({ passage, onBack }) => {
       </button>
 
       <div
-  className="px-6 md:px-12 max-w-3xl mx-auto"
-  style={{ paddingLeft: '2rem', paddingRight: '2rem' }}
->
+        className="px-6 md:px-12 max-w-3xl mx-auto"
+        style={{ paddingLeft: '2rem', paddingRight: '2rem' }}
+      >
         {/* Passage Title */}
         <h2 className="text-2xl font-bold mb-4">{passage.title}</h2>
 
@@ -83,12 +83,17 @@ const PassageViewer = ({ passage, onBack }) => {
 
         {/* Passage Text & Questions in a frame */}
         <div className="bg-white border border-gray-300 rounded-lg shadow p-6 md:p-10">
-          <p
-            className="mb-6 whitespace-pre-line"
-            style={{ paddingLeft: '2rem', paddingRight: '2rem' }}
-          >
-            {showSimplified ? passage.simplified : passage.original}
-          </p>
+          {/* Paragraph rendering fix: split text into <p> by blank line */}
+          <div className="mb-6" style={{ paddingLeft: '2rem', paddingRight: '2rem' }}>
+            {(showSimplified ? passage.simplified : passage.original)
+              ?.split(/\n\s*\n/)
+              .map((para, i) => (
+                <p key={i} className="mb-4 leading-8 whitespace-pre-wrap">
+                  {para}
+                </p>
+              ))
+            }
+          </div>
 
           {/* Questions */}
           {Array.isArray(passage.questions) &&
