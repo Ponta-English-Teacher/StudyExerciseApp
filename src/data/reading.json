@@ -379,3 +379,68 @@
     ]
   }
 ]
+{
+  "id": 6,
+  "title": "Equality and Fairness",
+  "topic": "Society",
+  "level": "B2",
+  "tone": "Serious",
+  "original": "Equality means giving everyone the same resources or opportunities. It sounds fair at first, but in reality, people have different needs. For example, imagine three people of different heights trying to watch a baseball game over a fence. If each person is given the same size box to stand on, the shortest person still cannot see the game. In some societies, this kind of one-size-fits-all approach is criticized as excessive equalitarianism.\n\nFairness, or equity, means giving people the support they actually need to have the same chance of success. In the baseball example, the shortest person gets the tallest box, the middle person a smaller box, and the tallest person none at all. Now, everyone can enjoy the view equally.",
+  "simplified": "Equality means giving the same help to everyone. It sounds fair, but people have different needs. Imagine three people of different heights watching a baseball game over a fence. If each person gets the same box, the shortest person still cannot see. In some places, this problem is called \"too much equal treatment.\"\n\nFairness, or equity, means giving help based on need. The shortest person gets the tallest box, the middle person gets a smaller box, and the tallest person gets no box. Now, everyone can watch the game.",
+  "questions": [
+    {
+      "type": "mainIdea",
+      "question": "What is the main idea of this passage?",
+      "options": [
+        "A. Equality and fairness are the same",
+        "B. Fairness means giving help based on need",
+        "C. Everyone should get the same box",
+        "D. Fairness is always unfair"
+      ],
+      "answer": "B",
+      "hint": "第一パラグラフと第二パラグラフの違いに注目しよう。"
+    },
+    {
+      "type": "vocabulary",
+      "question": "What does the word \"equity\" most likely mean in the passage?",
+      "options": [
+        "A. Being rich",
+        "B. Treating people based on needs",
+        "C. Playing baseball",
+        "D. Measuring height"
+      ],
+      "answer": "B",
+      "hint": "公平とは何か？野球の例を思い出そう。"
+    },
+    {
+      "type": "trueFalse",
+      "question": "True or False: In the equality example, even the shortest person can see the game.",
+      "answer": "False",
+      "hint": "第一パラグラフの野球の例を読んでみよう。"
+    },
+    {
+      "type": "sentenceMeaning",
+      "question": "What does this sentence mean? \"In some societies, this kind of one-size-fits-all approach is criticized as excessive equalitarianism.\"",
+      "options": [
+        "A. Some think giving the same to everyone can be a problem",
+        "B. Everyone agrees equality is always good",
+        "C. People want to watch more baseball games",
+        "D. Equality and fairness mean the same thing"
+      ],
+      "answer": "A",
+      "hint": "excessive equalitarianism の意味を考えてみよう。"
+    },
+    {
+      "type": "comprehension",
+      "question": "Why does the fairness example give different boxes to people?",
+      "options": [
+        "A. So everyone can see the game",
+        "B. So everyone can be the same height",
+        "C. So the tallest person can get more help",
+        "D. So the game will be more exciting"
+      ],
+      "answer": "A",
+      "hint": "第二パラグラフの目的に注目しよう。"
+    }
+  ]
+}
