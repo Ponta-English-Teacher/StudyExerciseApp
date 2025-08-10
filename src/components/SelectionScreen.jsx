@@ -3,8 +3,7 @@ import React from 'react';
 export default function SelectionScreen({ passages, onSelect }) {
   return (
     <div className="p-4">
-      <h1 className="text-2xl font-bold mb-4">Select a Passage</h1>
-
+      <h1 className="text-xl font-bold mb-4">Select a Passage</h1>
       {passages.length === 0 ? (
         <p>Loading passage list...</p>
       ) : (
@@ -12,7 +11,7 @@ export default function SelectionScreen({ passages, onSelect }) {
           {passages.map((passage, index) => (
             <div
               key={`passage-${passage?.id ?? 'na'}-${index}`}
-              className="border border-gray-300 rounded p-4 hover:bg-gray-100 cursor-pointer"
+              className="passage-card"
               onClick={() => onSelect(passage.id)}
               role="button"
               tabIndex={0}
@@ -20,8 +19,8 @@ export default function SelectionScreen({ passages, onSelect }) {
                 if (e.key === 'Enter') onSelect(passage.id);
               }}
             >
-              <h2 className="text-lg font-semibold">{passage.title}</h2>
-              <p className="text-sm text-gray-600">
+              <h2 className="passage-title">{passage.title}</h2>
+              <p className="passage-meta">
                 Level: {passage.level} | Topic: {passage.topic}
               </p>
             </div>
