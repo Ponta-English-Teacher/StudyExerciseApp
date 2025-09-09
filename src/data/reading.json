@@ -442,5 +442,70 @@
       "hint": "第二パラグラフの目的に注目しよう。"
     }
   ]
-}
+},
+{
+  "id": 7,
+  "title": "Parenting and Cooking: A Shared Responsibility",
+  "topic": "Society",
+  "level": "B2",
+  "tone": "Serious",
+  "original": "Today, men who engage in parenting and cooking are respected and valued. These tasks are often seen as natural for women, but in fact no one is born with such skills. Cooking and raising children must be learned through practice. For many years, women have had more chances to learn, simply because men stayed away. As a result, women often became more skilled, while men missed out. If fathers continue to avoid these roles, they will not only create an unfair burden for women but also limit their own growth.\n\nParenting and cooking are not simple duties. They are creative and enjoyable experiences. Cooking means thinking carefully: what food is left in the refrigerator, what the family enjoys, and how to prepare tomorrow’s lunch. Parenting means sharing joy, solving problems, and teaching children by example. These activities require attention, patience, and imagination. Men should take part not only to support women, but also for themselves. By learning these skills, men become more capable, and the whole family becomes stronger and happier.",
+  "simplified": "Today, men who take care of children and cook are respected. Parenting and cooking need skills, and no one is born with them. Women are not born knowing how to cook or raise children. They learn by doing. Men must also learn. If men stay away from these jobs, their partners will become better, but the men will not.\n\nCooking and parenting are enjoyable and give joy. Cooking is creative: thinking about what food is left, what the family likes, and how to make a good meal. Fathers can spend time with children, and children can learn from them. Men should do more, not only to help women, but also for themselves. By learning these skills, men can grow, and families can become fair and happy.",
+  "questions": [
+    {
+      "type": "main_idea",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Parenting and cooking are natural skills for women.",
+        "Men should share parenting and cooking because these skills are learned and valuable.",
+        "Cooking is only about using leftovers.",
+        "Fathers should avoid household work to grow faster."
+      ],
+      "answer": "Men should share parenting and cooking because these skills are learned and valuable.",
+      "hint": "第二パラグラフの全体の意味を考えよう。「Men should take part … for themselves.」"
+    },
+    {
+      "type": "vocabulary",
+      "question": "What does the word \"burden\" most nearly mean in: \"create an unfair burden for women\"?",
+      "options": [
+        "A happy surprise",
+        "A heavy load or responsibility",
+        "A quick decision",
+        "A simple tool"
+      ],
+      "answer": "A heavy load or responsibility",
+      "hint": "男性が避けるほど女性の仕事量が増える＝重荷。"
+    },
+    {
+      "type": "true_false",
+      "question": "True or False: The passage says women are born with special parenting and cooking skills.",
+      "answer": "False",
+      "hint": "第一パラグラフに「no one is born with such skills」とある。"
+    },
+    {
+      "type": "sentence_meaning",
+      "question": "What does this sentence mean? \"If fathers continue to avoid these roles, they will … limit their own growth.\"",
+      "options": [
+        "They will gain many new skills.",
+        "They will have more time for hobbies.",
+        "They will miss chances to learn and improve.",
+        "They will make family life more equal."
+      ],
+      "answer": "They will miss chances to learn and improve.",
+      "hint": "limit their own growth＝成長の機会を失う。"
+    },
+    {
+      "type": "comprehension",
+      "question": "Why is cooking called creative in the passage?",
+      "options": [
+        "Because it is only about cleaning the fridge.",
+        "Because it requires thinking about leftovers, family likes, and future meals.",
+        "Because it doesn’t need any planning.",
+        "Because it is natural for women."
+      ],
+      "answer": "Because it requires thinking about leftovers, family likes, and future meals.",
+      "hint": "第二パラグラフの『Cooking means thinking carefully…』を読もう。"
+    }
+  ]
+}  
 ]
