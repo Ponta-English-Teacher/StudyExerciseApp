@@ -30,7 +30,6 @@ export default function GlossaryViewer({ voiceName, onClose }) {
           </li>
         ))}
       </ul>
-      <button onClick={onClose}>閉じる</button>
     </div>
   );
 }
