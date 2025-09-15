@@ -578,5 +578,70 @@
       "hint": "第二パラグラフの「Even native speakers do not know every word」を読もう。"
     }
   ]
+},
+{
+  "id": 9,
+  "title": "Finding What You Want to Do",
+  "topic": "Society / Career",
+  "level": "B1-B2",
+  "tone": "Encouraging",
+  "original": "Many people find what they want to do in life quite early. They decide to become a lawyer, a doctor, a business person, or an athlete, and then they work hard to reach that goal. For them, the path looks clear, and their studies feel directly connected to their dreams.\n\nHowever, others find it difficult to decide. They want to study for their future, but if they doubt their choice, it is hard to concentrate. Some just keep searching for the 'right' job forever, without deciding. For these students, finishing school is itself a good path, because more knowledge and experience can open new opportunities. Even if you don’t know what to do yet, learning more can guide you toward a future that fits you.",
+  "simplified": "Many people know what job they want. They want to be a doctor, a lawyer, a business person, or an athlete. They study hard for that dream.\n\nBut some students do not know. If they are not sure, it is hard to study well. Some keep looking for the answer forever. For them, finishing school is very important. Learning more gives them new ideas and new chances. Even if you don’t know your job now, keep learning. School can help you find the way.",
+  "questions": [
+    {
+      "type": "main_idea",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "A. Everyone should become a lawyer or doctor.",
+        "B. Finishing school can give you hints and guidance if you don’t know your job yet.",
+        "C. You cannot study if you don’t know your job.",
+        "D. School is not important for finding work."
+      ],
+      "answer": "B",
+      "hint": "第二パラグラフの「finishing school is itself a good path…」に注目。"
+    },
+    {
+      "type": "vocabulary",
+      "question": "What does \"concentrate\" most likely mean in the passage?",
+      "options": [
+        "A. To stop learning",
+        "B. To focus attention",
+        "C. To change jobs",
+        "D. To feel tired"
+      ],
+      "answer": "B",
+      "hint": "「hard to concentrate」とあるので、studying との関係を考えよう。"
+    },
+    {
+      "type": "detail",
+      "question": "According to the passage, why is finishing school good for people who don’t know their job yet?",
+      "options": [
+        "A. Because school gives money",
+        "B. Because finishing school makes parents happy",
+        "C. Because learning more opens new chances",
+        "D. Because everyone becomes a lawyer after school"
+      ],
+      "answer": "C",
+      "hint": "第二パラグラフの最後にある「new opportunities」に注目。"
+    },
+    {
+      "type": "sentence_meaning",
+      "question": "What does this sentence mean? “Even if you don’t know what to do yet, learning more can guide you toward a future that fits you.”",
+      "options": [
+        "A. Only people with a clear dream should learn.",
+        "B. Studying can help you discover a good future, even without a plan now.",
+        "C. The future is always clear for students.",
+        "D. Dreams and studying are not connected."
+      ],
+      "answer": "B",
+      "hint": "「guide you toward a future」＝将来へ導く。"
+    },
+    {
+      "type": "true_false",
+      "question": "True or False: It is important to search for the right job forever.",
+      "answer": "False",
+      "hint": "第二パラグラフの「Some just keep searching forever, without deciding」とあるが、それを大事だとは言っていない。"
+    }
+  ]
 }  
 ]
