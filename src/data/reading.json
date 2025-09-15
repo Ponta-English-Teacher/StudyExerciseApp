@@ -507,5 +507,76 @@
       "hint": "第二パラグラフの『Cooking means thinking carefully…』を読もう。"
     }
   ]
+},
+{
+  "id": 8,
+  "title": "The Power of Guessing in Reading and Listening",
+  "topic": "Learning Strategies",
+  "level": "B1",
+  "tone": "Encouraging",
+  "original": "When you read a passage or listen to someone speak, it is natural to find words you do not know. Many learners believe they must understand every single word. However, this is not true. Good readers and listeners often guess the meaning from context. They look at the other words, the sentence, or the situation, and make a smart guess. This skill is even more important in real-life communication, where there is no dictionary to help you.\n\nYou can also guess from the topic. For example, if the title is about smartphones and young people, you can predict it might be about using smartphones too much and the negative effects. If your guess is correct, you will understand faster. If it is wrong, you can quickly switch to a new guess. Focusing too much on difficult words can slow you down and make you lose the main idea. Even native speakers do not know every word, but they still understand by guessing. Developing this skill makes you more confident and helps you enjoy English without fear.",
+  "simplified": "When you read or listen, you often see words you do not know. Many students think they must know all words, but this is not true. Good readers and listeners guess the meaning. They use other words, the sentence, or the situation. Guessing helps in real life, because you cannot always use a dictionary.\n\nYou can also guess from the topic. For example, if the title is about smartphones and young people, you can guess it is about too much smartphone use and problems. If your guess is right, it helps. If it is wrong, you can change your guess. If you stop at every hard word, you will forget the main idea. Even native speakers do not know all words. They also guess. Guessing makes you confident and helps you enjoy English more.",
+  "questions": [
+    {
+      "type": "main_idea",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "A. Students must know every word to understand English.",
+        "B. Guessing from context and topic is important in reading and listening.",
+        "C. Using a dictionary well helps you to learn more.",
+        "D. Native speakers never guess word meanings."
+      ],
+      "answer": "B",
+      "hint": "第一パラグラフと第二パラグラフを合わせて考えよう。「guessing」が大事。"
+    },
+    {
+      "type": "vocabulary",
+      "question": "What does \"context\" most likely mean in the passage?",
+      "options": [
+        "A. A difficult dictionary word",
+        "B. The situation and other words around",
+        "C. A secret message",
+        "D. A special test"
+      ],
+      "answer": "B",
+      "hint": "「They look at the other words, the sentence, or the situation」とある。"
+    },
+    {
+      "type": "detail",
+      "question": "According to the passage, if the topic is about smartphones and young people, what can you guess?",
+      "options": [
+        "A. It will explain how to build a smartphone.",
+        "B. It might be about using smartphones too much and negative effects.",
+        "C. It describes how young people pay for their phone.",
+        "D. It will illustrate the history of mobile phones."
+      ],
+      "answer": "B",
+      "hint": "第二パラグラフの例を読んでみよう。"
+    },
+    {
+      "type": "sentence_meaning",
+      "question": "What does this sentence mean? “Focusing too much on difficult words can slow you down and make you lose the main idea.”",
+      "options": [
+        "A. Looking at hard words helps you go faster.",
+        "B. If you stop too long at hard words, you miss the important message.",
+        "C. The main idea is always in the dictionary.",
+        "D. Native speakers focus on every single word."
+      ],
+      "answer": "B",
+      "hint": "「slow you down」と「lose the main idea」の意味を考えよう。"
+    },
+    {
+      "type": "comprehension",
+      "question": "Why do even native speakers need to guess?",
+      "options": [
+        "A. Because they are not good at English.",
+        "B. Because they also do not know every word.",
+        "C. Because they never read books.",
+        "D. Because they forget to use a dictionary."
+      ],
+      "answer": "B",
+      "hint": "第二パラグラフの「Even native speakers do not know every word」を読もう。"
+    }
+  ]
 }  
 ]
