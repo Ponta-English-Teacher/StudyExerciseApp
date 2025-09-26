@@ -137,11 +137,13 @@
     "id": 3,
     "topic": "Modern World",
     "title": "Uncertainty in Parenting",
+    "level": "B1-B2",
+    "tone": "Neutral",
     "original": "Parenting is full of uncertainty. Many books promise to teach how to raise a successful child, but they often reflect only the author's own experience. Each child is different, and what works for one may not work for another.\n\nParents must solve problems in real-time—soothing a crying baby or handling a child's tantrum—without the help of a manual. They often feel unprepared, like amateurs learning as they go. There is no perfect path, only the desire to do what’s best.",
     "simplified": "There are many books about how to raise children. But each child is different, and the books don't always help. What worked for one parent may not work for others.\n\nParents have to take care of problems like crying or changing diapers right away. They can't look at books in those moments. Parents learn by doing. There is no one correct way to raise children.",
     "questions": [
       {
-        "type": "mainIdea",
+        "type": "main_idea",
         "question": "What is the main idea of the passage?",
         "options": [
           "A. Parenting is easy if you read the right books.",
@@ -165,13 +167,13 @@
         "hint": "『They must solve problems in real-time』と書かれているので、文脈から意味を考えてみよう。"
       },
       {
-        "type": "trueFalse",
+        "type": "true_false",
         "question": "True or False: The passage says that parenting books always help.",
         "answer": "False",
         "hint": "本文には『they often reflect only the author's own experience』とある。"
       },
       {
-        "type": "sentenceMeaning",
+        "type": "sentence_meaning",
         "question": "What does 'like amateurs learning as they go' mean?",
         "options": [
           "A. Parents are professionals with lots of training.",
@@ -227,11 +229,13 @@
     "id": 4,
     "topic": "Modern World",
     "title": "The Meaning of Knowing People",
+    "level": "B1-B2",
+    "tone": "Neutral",
     "original": "In the past, we knew people by their faces, voices, and daily actions. We recognized neighbors in the street, talked to classmates in person, and knew what our friends liked and did.\n\nToday, things have changed. We often interact online, sometimes without seeing a face or hearing a real voice. We may not know if the person truly exists or what they do in real life. While we can connect with more people now, it’s harder to feel that we truly know them.",
     "simplified": "Before, we knew people by seeing them and talking to them. We could see our neighbors and friends and understand what they liked.\n\nNow, we often talk online. We do not see people’s faces or hear their voices. Sometimes, we do not even know if they are real. It is easy to meet many people, but it is hard to really know them.",
     "questions": [
       {
-        "type": "mainIdea",
+        "type": "main_idea",
         "question": "What is the main idea of the passage?",
         "options": [
           "A. People no longer care about friendships.",
@@ -255,13 +259,13 @@
         "hint": "『interact online』と書いてあるので、意味を考えてみよう。"
       },
       {
-        "type": "trueFalse",
+        "type": "true_false",
         "question": "True or False: The author says modern ways of communication are always bad.",
         "answer": "False",
         "hint": "著者は modern ways of communication を否定しているかどうか、全体を見て考えてみよう。"
       },
       {
-        "type": "sentenceMeaning",
+        "type": "sentence_meaning",
         "question": "What does 'We don’t know their faces, their voices, or even if they are real.' mean?",
         "options": [
           "A. Everyone online is pretending.",
@@ -323,7 +327,7 @@
     "simplified": "In some countries, people are losing trust in democracy. They do not believe in elections or leaders. Some governments stop free speech or control the courts. These things make democracy weaker. If people stop caring or think their voices do not matter, democracy can break.\n\nTo keep democracy strong, people must take action. Voting is important, but it is not enough. People should stay informed, speak up when things are unfair, and protect human rights. Democracy was not always here. Many people fought and died for it. We must protect it for the future.",
     "questions": [
       {
-        "type": "mainIdea",
+        "type": "main_idea",
         "question": "What is the main idea of this passage?",
         "options": [
           "A. People no longer need to vote.",
@@ -347,13 +351,13 @@
         "hint": "文の流れを考えよう。democracy を得るために、人々は何をした？"
       },
       {
-        "type": "trueFalse",
+        "type": "true_false",
         "question": "True or False: Some governments today try to weaken democracy using legal methods.",
         "answer": "True",
         "hint": "『These actions slowly erode the foundation of democracy』の意味を考えよう。"
       },
       {
-        "type": "sentenceMeaning",
+        "type": "sentence_meaning",
         "question": "What does this sentence mean? 'Democracy is not something simply given to us — it was gained through the struggles and sacrifices of many people.'",
         "options": [
           "A. Democracy is free and easy to keep.",
@@ -378,270 +382,335 @@
       }
     ]
   },
-{
-  "id": 6,
-  "title": "Equality and Fairness",
-  "topic": "Society",
-  "level": "B2",
-  "tone": "Serious",
-  "original": "Equality means giving everyone the same resources or opportunities. It sounds fair at first, but in reality, people have different needs. For example, imagine three people of different heights trying to watch a baseball game over a fence. If each person is given the same size box to stand on, the shortest person still cannot see the game. In some societies, this kind of one-size-fits-all approach is criticized as excessive equalitarianism.\n\nFairness, or equity, means giving people the support they actually need to have the same chance of success. In the baseball example, the shortest person gets the tallest box, the middle person a smaller box, and the tallest person none at all. Now, everyone can enjoy the view equally.",
-  "simplified": "Equality means giving the same help to everyone. It sounds fair, but people have different needs. Imagine three people of different heights watching a baseball game over a fence. If each person gets the same box, the shortest person still cannot see. In some places, this problem is called \"too much equal treatment.\"\n\nFairness, or equity, means giving help based on need. The shortest person gets the tallest box, the middle person gets a smaller box, and the tallest person gets no box. Now, everyone can watch the game.",
-  "questions": [
-    {
-      "type": "mainIdea",
-      "question": "What is the main idea of this passage?",
-      "options": [
-        "A. Equality and fairness are the same",
-        "B. Fairness means giving help based on need",
-        "C. Everyone should get the same box",
-        "D. Fairness is always unfair"
-      ],
-      "answer": "B",
-      "hint": "第一パラグラフと第二パラグラフの違いに注目しよう。"
-    },
-    {
-      "type": "vocabulary",
-      "question": "What does the word \"equity\" most likely mean in the passage?",
-      "options": [
-        "A. Being rich",
-        "B. Treating people based on needs",
-        "C. Playing baseball",
-        "D. Measuring height"
-      ],
-      "answer": "B",
-      "hint": "公平とは何か？野球の例を思い出そう。"
-    },
-    {
-      "type": "trueFalse",
-      "question": "True or False: In the equality example, even the shortest person can see the game.",
-      "answer": "False",
-      "hint": "第一パラグラフの野球の例を読んでみよう。"
-    },
-    {
-      "type": "sentenceMeaning",
-      "question": "What does this sentence mean? \"In some societies, this kind of one-size-fits-all approach is criticized as excessive equalitarianism.\"",
-      "options": [
-        "A. Some think giving the same to everyone can be a problem",
-        "B. Everyone agrees equality is always good",
-        "C. People want to watch more baseball games",
-        "D. Equality and fairness mean the same thing"
-      ],
-      "answer": "A",
-      "hint": "excessive equalitarianism の意味を考えてみよう。"
-    },
-    {
-      "type": "comprehension",
-      "question": "Why does the fairness example give different boxes to people?",
-      "options": [
-        "A. So everyone can see the game",
-        "B. So everyone can be the same height",
-        "C. So the tallest person can get more help",
-        "D. So the game will be more exciting"
-      ],
-      "answer": "A",
-      "hint": "第二パラグラフの目的に注目しよう。"
-    }
-  ]
-},
-{
-  "id": 7,
-  "title": "Parenting and Cooking: A Shared Responsibility",
-  "topic": "Society",
-  "level": "B2",
-  "tone": "Serious",
-  "original": "Today, men who engage in parenting and cooking are respected and valued. These tasks are often seen as natural for women, but in fact no one is born with such skills. Cooking and raising children must be learned through practice. For many years, women have had more chances to learn, simply because men stayed away. As a result, women often became more skilled, while men missed out. If fathers continue to avoid these roles, they will not only create an unfair burden for women but also limit their own growth.\n\nParenting and cooking are not simple duties. They are creative and enjoyable experiences. Cooking means thinking carefully: what food is left in the refrigerator, what the family enjoys, and how to prepare tomorrow’s lunch. Parenting means sharing joy, solving problems, and teaching children by example. These activities require attention, patience, and imagination. Men should take part not only to support women, but also for themselves. By learning these skills, men become more capable, and the whole family becomes stronger and happier.",
-  "simplified": "Today, men who take care of children and cook are respected. Parenting and cooking need skills, and no one is born with them. Women are not born knowing how to cook or raise children. They learn by doing. Men must also learn. If men stay away from these jobs, their partners will become better, but the men will not.\n\nCooking and parenting are enjoyable and give joy. Cooking is creative: thinking about what food is left, what the family likes, and how to make a good meal. Fathers can spend time with children, and children can learn from them. Men should do more, not only to help women, but also for themselves. By learning these skills, men can grow, and families can become fair and happy.",
-  "questions": [
-    {
-      "type": "main_idea",
-      "question": "What is the main idea of the passage?",
-      "options": [
-        "Parenting and cooking are natural skills for women.",
-        "Men should share parenting and cooking because these skills are learned and valuable.",
-        "Cooking is only about using leftovers.",
-        "Fathers should avoid household work to grow faster."
-      ],
-      "answer": "Men should share parenting and cooking because these skills are learned and valuable.",
-      "hint": "第二パラグラフの全体の意味を考えよう。「Men should take part … for themselves.」"
-    },
-    {
-      "type": "vocabulary",
-      "question": "What does the word \"burden\" most nearly mean in: \"create an unfair burden for women\"?",
-      "options": [
-        "A happy surprise",
-        "A heavy load or responsibility",
-        "A quick decision",
-        "A simple tool"
-      ],
-      "answer": "A heavy load or responsibility",
-      "hint": "男性が避けるほど女性の仕事量が増える＝重荷。"
-    },
-    {
-      "type": "true_false",
-      "question": "True or False: The passage says women are born with special parenting and cooking skills.",
-      "answer": "False",
-      "hint": "第一パラグラフに「no one is born with such skills」とある。"
-    },
-    {
-      "type": "sentence_meaning",
-      "question": "What does this sentence mean? \"If fathers continue to avoid these roles, they will … limit their own growth.\"",
-      "options": [
-        "They will gain many new skills.",
-        "They will have more time for hobbies.",
-        "They will miss chances to learn and improve.",
-        "They will make family life more equal."
-      ],
-      "answer": "They will miss chances to learn and improve.",
-      "hint": "limit their own growth＝成長の機会を失う。"
-    },
-    {
-      "type": "comprehension",
-      "question": "Why is cooking called creative in the passage?",
-      "options": [
-        "Because it is only about cleaning the fridge.",
-        "Because it requires thinking about leftovers, family likes, and future meals.",
-        "Because it doesn’t need any planning.",
-        "Because it is natural for women."
-      ],
-      "answer": "Because it requires thinking about leftovers, family likes, and future meals.",
-      "hint": "第二パラグラフの『Cooking means thinking carefully…』を読もう。"
-    }
-  ]
-},
-{
-  "id": 8,
-  "title": "The Power of Guessing in Reading and Listening",
-  "topic": "Learning Strategies",
-  "level": "B1",
-  "tone": "Encouraging",
-  "original": "When you read a passage or listen to someone speak, it is natural to find words you do not know. Many learners believe they must understand every single word. However, this is not true. Good readers and listeners often guess the meaning from context. They look at the other words, the sentence, or the situation, and make a smart guess. This skill is even more important in real-life communication, where there is no dictionary to help you.\n\nYou can also guess from the topic. For example, if the title is about smartphones and young people, you can predict it might be about using smartphones too much and the negative effects. If your guess is correct, you will understand faster. If it is wrong, you can quickly switch to a new guess. Focusing too much on difficult words can slow you down and make you lose the main idea. Even native speakers do not know every word, but they still understand by guessing. Developing this skill makes you more confident and helps you enjoy English without fear.",
-  "simplified": "When you read or listen, you often see words you do not know. Many students think they must know all words, but this is not true. Good readers and listeners guess the meaning. They use other words, the sentence, or the situation. Guessing helps in real life, because you cannot always use a dictionary.\n\nYou can also guess from the topic. For example, if the title is about smartphones and young people, you can guess it is about too much smartphone use and problems. If your guess is right, it helps. If it is wrong, you can change your guess. If you stop at every hard word, you will forget the main idea. Even native speakers do not know all words. They also guess. Guessing makes you confident and helps you enjoy English more.",
-  "questions": [
-    {
-      "type": "main_idea",
-      "question": "What is the main idea of the passage?",
-      "options": [
-        "A. Students must know every word to understand English.",
-        "B. Guessing from context and topic is important in reading and listening.",
-        "C. Using a dictionary well helps you to learn more.",
-        "D. Native speakers never guess word meanings."
-      ],
-      "answer": "B",
-      "hint": "第一パラグラフと第二パラグラフを合わせて考えよう。「guessing」が大事。"
-    },
-    {
-      "type": "vocabulary",
-      "question": "What does \"context\" most likely mean in the passage?",
-      "options": [
-        "A. A difficult dictionary word",
-        "B. The situation and other words around",
-        "C. A secret message",
-        "D. A special test"
-      ],
-      "answer": "B",
-      "hint": "「They look at the other words, the sentence, or the situation」とある。"
-    },
-    {
-      "type": "detail",
-      "question": "According to the passage, if the topic is about smartphones and young people, what can you guess?",
-      "options": [
-        "A. It will explain how to build a smartphone.",
-        "B. It might be about using smartphones too much and negative effects.",
-        "C. It describes how young people pay for their phone.",
-        "D. It will illustrate the history of mobile phones."
-      ],
-      "answer": "B",
-      "hint": "第二パラグラフの例を読んでみよう。"
-    },
-    {
-      "type": "sentence_meaning",
-      "question": "What does this sentence mean? “Focusing too much on difficult words can slow you down and make you lose the main idea.”",
-      "options": [
-        "A. Looking at hard words helps you go faster.",
-        "B. If you stop too long at hard words, you miss the important message.",
-        "C. The main idea is always in the dictionary.",
-        "D. Native speakers focus on every single word."
-      ],
-      "answer": "B",
-      "hint": "「slow you down」と「lose the main idea」の意味を考えよう。"
-    },
-    {
-      "type": "comprehension",
-      "question": "Why do even native speakers need to guess?",
-      "options": [
-        "A. Because they are not good at English.",
-        "B. Because they also do not know every word.",
-        "C. Because they never read books.",
-        "D. Because they forget to use a dictionary."
-      ],
-      "answer": "B",
-      "hint": "第二パラグラフの「Even native speakers do not know every word」を読もう。"
-    }
-  ]
-},
-{
-  "id": 9,
-  "title": "Finding What You Want to Do",
-  "topic": "Society / Career",
-  "level": "B1-B2",
-  "tone": "Encouraging",
-  "original": "Many people find what they want to do in life quite early. They decide to become a lawyer, a doctor, a business person, or an athlete, and then they work hard to reach that goal. For them, the path looks clear, and their studies feel directly connected to their dreams.\n\nHowever, others find it difficult to decide. They want to study for their future, but if they doubt their choice, it is hard to concentrate. Some just keep searching for the 'right' job forever, without deciding. For these students, finishing school is itself a good path, because more knowledge and experience can open new opportunities. Even if you don’t know what to do yet, learning more can guide you toward a future that fits you.",
-  "simplified": "Many people know what job they want. They want to be a doctor, a lawyer, a business person, or an athlete. They study hard for that dream.\n\nBut some students do not know. If they are not sure, it is hard to study well. Some keep looking for the answer forever. For them, finishing school is very important. Learning more gives them new ideas and new chances. Even if you don’t know your job now, keep learning. School can help you find the way.",
-  "questions": [
-    {
-      "type": "main_idea",
-      "question": "What is the main idea of the passage?",
-      "options": [
-        "A. Everyone should become a lawyer or doctor.",
-        "B. Finishing school can give you hints and guidance if you don’t know your job yet.",
-        "C. You cannot study if you don’t know your job.",
-        "D. School is not important for finding work."
-      ],
-      "answer": "B",
-      "hint": "第二パラグラフの「finishing school is itself a good path…」に注目。"
-    },
-    {
-      "type": "vocabulary",
-      "question": "What does \"concentrate\" most likely mean in the passage?",
-      "options": [
-        "A. To stop learning",
-        "B. To focus attention",
-        "C. To change jobs",
-        "D. To feel tired"
-      ],
-      "answer": "B",
-      "hint": "「hard to concentrate」とあるので、studying との関係を考えよう。"
-    },
-    {
-      "type": "detail",
-      "question": "According to the passage, why is finishing school good for people who don’t know their job yet?",
-      "options": [
-        "A. Because school gives money",
-        "B. Because finishing school makes parents happy",
-        "C. Because learning more opens new chances",
-        "D. Because everyone becomes a lawyer after school"
-      ],
-      "answer": "C",
-      "hint": "第二パラグラフの最後にある「new opportunities」に注目。"
-    },
-    {
-      "type": "sentence_meaning",
-      "question": "What does this sentence mean? “Even if you don’t know what to do yet, learning more can guide you toward a future that fits you.”",
-      "options": [
-        "A. Only people with a clear dream should learn.",
-        "B. Studying can help you discover a good future, even without a plan now.",
-        "C. The future is always clear for students.",
-        "D. Dreams and studying are not connected."
-      ],
-      "answer": "B",
-      "hint": "「guide you toward a future」＝将来へ導く。"
-    },
-    {
-      "type": "true_false",
-      "question": "True or False: It is important to search for the right job forever.",
-      "answer": "False",
-      "hint": "第二パラグラフの「Some just keep searching forever, without deciding」とあるが、それを大事だとは言っていない。"
-    }
-  ]
-}  
+  {
+    "id": 6,
+    "title": "Equality and Fairness",
+    "topic": "Society",
+    "level": "B2",
+    "tone": "Serious",
+    "original": "Equality means giving everyone the same resources or opportunities. It sounds fair at first, but in reality, people have different needs. For example, imagine three people of different heights trying to watch a baseball game over a fence. If each person is given the same size box to stand on, the shortest person still cannot see the game. In some societies, this kind of one-size-fits-all approach is criticized as excessive equalitarianism.\n\nFairness, or equity, means giving people the support they actually need to have the same chance of success. In the baseball example, the shortest person gets the tallest box, the middle person a smaller box, and the tallest person none at all. Now, everyone can enjoy the view equally.",
+    "simplified": "Equality means giving the same help to everyone. It sounds fair, but people have different needs. Imagine three people of different heights watching a baseball game over a fence. If each person gets the same box, the shortest person still cannot see. In some places, this problem is called \"too much equal treatment.\"\n\nFairness, or equity, means giving help based on need. The shortest person gets the tallest box, the middle person gets a smaller box, and the tallest person gets no box. Now, everyone can watch the game.",
+    "questions": [
+      {
+        "type": "main_idea",
+        "question": "What is the main idea of this passage?",
+        "options": [
+          "A. Equality and fairness are the same",
+          "B. Fairness means giving help based on need",
+          "C. Everyone should get the same box",
+          "D. Fairness is always unfair"
+        ],
+        "answer": "B",
+        "hint": "第一パラグラフと第二パラグラフの違いに注目しよう。"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does the word \"equity\" most likely mean in the passage?",
+        "options": [
+          "A. Being rich",
+          "B. Treating people based on needs",
+          "C. Playing baseball",
+          "D. Measuring height"
+        ],
+        "answer": "B",
+        "hint": "公平とは何か？野球の例を思い出そう。"
+      },
+      {
+        "type": "true_false",
+        "question": "True or False: In the equality example, even the shortest person can see the game.",
+        "answer": "False",
+        "hint": "第一パラグラフの野球の例を読んでみよう。"
+      },
+      {
+        "type": "sentence_meaning",
+        "question": "What does this sentence mean? \"In some societies, this kind of one-size-fits-all approach is criticized as excessive equalitarianism.\"",
+        "options": [
+          "A. Some think giving the same to everyone can be a problem",
+          "B. Everyone agrees equality is always good",
+          "C. People want to watch more baseball games",
+          "D. Equality and fairness mean the same thing"
+        ],
+        "answer": "A",
+        "hint": "excessive equalitarianism の意味を考えてみよう。"
+      },
+      {
+        "type": "comprehension",
+        "question": "Why does the fairness example give different boxes to people?",
+        "options": [
+          "A. So everyone can see the game",
+          "B. So everyone can be the same height",
+          "C. So the tallest person can get more help",
+          "D. So the game will be more exciting"
+        ],
+        "answer": "A",
+        "hint": "第二パラグラフの目的に注目しよう。"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Parenting and Cooking: A Shared Responsibility",
+    "topic": "Society",
+    "level": "B2",
+    "tone": "Serious",
+    "original": "Today, men who engage in parenting and cooking are respected and valued. These tasks are often seen as natural for women, but in fact no one is born with such skills. Cooking and raising children must be learned through practice. For many years, women have had more chances to learn, simply because men stayed away. As a result, women often became more skilled, while men missed out. If fathers continue to avoid these roles, they will not only create an unfair burden for women but also limit their own growth.\n\nParenting and cooking are not simple duties. They are creative and enjoyable experiences. Cooking means thinking carefully: what food is left in the refrigerator, what the family enjoys, and how to prepare tomorrow’s lunch. Parenting means sharing joy, solving problems, and teaching children by example. These activities require attention, patience, and imagination. Men should take part not only to support women, but also for themselves. By learning these skills, men become more capable, and the whole family becomes stronger and happier.",
+    "simplified": "Today, men who take care of children and cook are respected. Parenting and cooking need skills, and no one is born with them. Women are not born knowing how to cook or raise children. They learn by doing. Men must also learn. If men stay away from these jobs, their partners will become better, but the men will not.\n\nCooking and parenting are enjoyable and give joy. Cooking is creative: thinking about what food is left, what the family likes, and how to make a good meal. Fathers can spend time with children, and children can learn from them. Men should do more, not only to help women, but also for themselves. By learning these skills, men can grow, and families can become fair and happy.",
+    "questions": [
+      {
+        "type": "main_idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Parenting and cooking are natural skills for women.",
+          "Men should share parenting and cooking because these skills are learned and valuable.",
+          "Cooking is only about using leftovers.",
+          "Fathers should avoid household work to grow faster."
+        ],
+        "answer": "Men should share parenting and cooking because these skills are learned and valuable.",
+        "hint": "第二パラグラフの全体の意味を考えよう。「Men should take part … for themselves.」"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does the word \"burden\" most nearly mean in: \"create an unfair burden for women\"?",
+        "options": [
+          "A happy surprise",
+          "A heavy load or responsibility",
+          "A quick decision",
+          "A simple tool"
+        ],
+        "answer": "A heavy load or responsibility",
+        "hint": "男性が避けるほど女性の仕事量が増える＝重荷。"
+      },
+      {
+        "type": "true_false",
+        "question": "True or False: The passage says women are born with special parenting and cooking skills.",
+        "answer": "False",
+        "hint": "第一パラグラフに「no one is born with such skills」とある。"
+      },
+      {
+        "type": "sentence_meaning",
+        "question": "What does this sentence mean? \"If fathers continue to avoid these roles, they will … limit their own growth.\"",
+        "options": [
+          "They will gain many new skills.",
+          "They will have more time for hobbies.",
+          "They will miss chances to learn and improve.",
+          "They will make family life more equal."
+        ],
+        "answer": "They will miss chances to learn and improve.",
+        "hint": "limit their own growth＝成長の機会を失う。"
+      },
+      {
+        "type": "comprehension",
+        "question": "Why is cooking called creative in the passage?",
+        "options": [
+          "Because it is only about cleaning the fridge.",
+          "Because it requires thinking about leftovers, family likes, and future meals.",
+          "Because it doesn’t need any planning.",
+          "Because it is natural for women."
+        ],
+        "answer": "Because it requires thinking about leftovers, family likes, and future meals.",
+        "hint": "第二パラグラフの『Cooking means thinking carefully…』を読もう。"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "The Power of Guessing in Reading and Listening",
+    "topic": "Learning Strategies",
+    "level": "B1",
+    "tone": "Encouraging",
+    "original": "When you read a passage or listen to someone speak, it is natural to find words you do not know. Many learners believe they must understand every single word. However, this is not true. Good readers and listeners often guess the meaning from context. They look at the other words, the sentence, or the situation, and make a smart guess. This skill is even more important in real-life communication, where there is no dictionary to help you.\n\nYou can also guess from the topic. For example, if the title is about smartphones and young people, you can predict it might be about using smartphones too much and the negative effects. If your guess is correct, you will understand faster. If it is wrong, you can quickly switch to a new guess. Focusing too much on difficult words can slow you down and make you lose the main idea. Even native speakers do not know every word, but they still understand by guessing. Developing this skill makes you more confident and helps you enjoy English without fear.",
+    "simplified": "When you read or listen, you often see words you do not know. Many students think they must know all words, but this is not true. Good readers and listeners guess the meaning. They use other words, the sentence, or the situation. Guessing helps in real life, because you cannot always use a dictionary.\n\nYou can also guess from the topic. For example, if the title is about smartphones and young people, you can guess it is about too much smartphone use and problems. If your guess is right, it helps. If it is wrong, you can change your guess. If you stop at every hard word, you will forget the main idea. Even native speakers do not know all words. They also guess. Guessing makes you confident and helps you enjoy English more.",
+    "questions": [
+      {
+        "type": "main_idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "A. Students must know every word to understand English.",
+          "B. Guessing from context and topic is important in reading and listening.",
+          "C. Using a dictionary well helps you to learn more.",
+          "D. Native speakers never guess word meanings."
+        ],
+        "answer": "B",
+        "hint": "第一パラグラフと第二パラグラフを合わせて考えよう。「guessing」が大事。"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does \"context\" most likely mean in the passage?",
+        "options": [
+          "A. A difficult dictionary word",
+          "B. The situation and other words around",
+          "C. A secret message",
+          "D. A special test"
+        ],
+        "answer": "B",
+        "hint": "「They look at the other words, the sentence, or the situation」とある。"
+      },
+      {
+        "type": "detail",
+        "question": "According to the passage, if the topic is about smartphones and young people, what can you guess?",
+        "options": [
+          "A. It will explain how to build a smartphone.",
+          "B. It might be about using smartphones too much and negative effects.",
+          "C. It describes how young people pay for their phone.",
+          "D. It will illustrate the history of mobile phones."
+        ],
+        "answer": "B",
+        "hint": "第二パラグラフの例を読んでみよう。"
+      },
+      {
+        "type": "sentence_meaning",
+        "question": "What does this sentence mean? “Focusing too much on difficult words can slow you down and make you lose the main idea.”",
+        "options": [
+          "A. Looking at hard words helps you go faster.",
+          "B. If you stop too long at hard words, you miss the important message.",
+          "C. The main idea is always in the dictionary.",
+          "D. Native speakers focus on every single word."
+        ],
+        "answer": "B",
+        "hint": "「slow you down」と「lose the main idea」の意味を考えよう。"
+      },
+      {
+        "type": "comprehension",
+        "question": "Why do even native speakers need to guess?",
+        "options": [
+          "A. Because they are not good at English.",
+          "B. Because they also do not know every word.",
+          "C. Because they never read books.",
+          "D. Because they forget to use a dictionary."
+        ],
+        "answer": "B",
+        "hint": "第二パラグラフの「Even native speakers do not know every word」を読もう。"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Finding What You Want to Do",
+    "topic": "Society / Career",
+    "level": "B1-B2",
+    "tone": "Encouraging",
+    "original": "Many people find what they want to do in life quite early. They decide to become a lawyer, a doctor, a business person, or an athlete, and then they work hard to reach that goal. For them, the path looks clear, and their studies feel directly connected to their dreams.\n\nHowever, others find it difficult to decide. They want to study for their future, but if they doubt their choice, it is hard to concentrate. Some just keep searching for the 'right' job forever, without deciding. For these students, finishing school is itself a good path, because more knowledge and experience can open new opportunities. Even if you don’t know what to do yet, learning more can guide you toward a future that fits you.",
+    "simplified": "Many people know what job they want. They want to be a doctor, a lawyer, a business person, or an athlete. They study hard for that dream.\n\nBut some students do not know. If they are not sure, it is hard to study well. Some keep looking for the answer forever. For them, finishing school is very important. Learning more gives them new ideas and new chances. Even if you don’t know your job now, keep learning. School can help you find the way.",
+    "questions": [
+      {
+        "type": "main_idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "A. Everyone should become a lawyer or doctor.",
+          "B. Finishing school can give you hints and guidance if you don’t know your job yet.",
+          "C. You cannot study if you don’t know your job.",
+          "D. School is not important for finding work."
+        ],
+        "answer": "B",
+        "hint": "第二パラグラフの「finishing school is itself a good path…」に注目。"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does \"concentrate\" most likely mean in the passage?",
+        "options": [
+          "A. To stop learning",
+          "B. To focus attention",
+          "C. To change jobs",
+          "D. To feel tired"
+        ],
+        "answer": "B",
+        "hint": "「hard to concentrate」とあるので、studying との関係を考えよう。"
+      },
+      {
+        "type": "detail",
+        "question": "According to the passage, why is finishing school good for people who don’t know their job yet?",
+        "options": [
+          "A. Because school gives money",
+          "B. Because finishing school makes parents happy",
+          "C. Because learning more opens new chances",
+          "D. Because everyone becomes a lawyer after school"
+        ],
+        "answer": "C",
+        "hint": "第二パラグラフの最後にある「new opportunities」に注目。"
+      },
+      {
+        "type": "sentence_meaning",
+        "question": "What does this sentence mean? “Even if you don’t know what to do yet, learning more can guide you toward a future that fits you.”",
+        "options": [
+          "A. Only people with a clear dream should learn.",
+          "B. Studying can help you discover a good future, even without a plan now.",
+          "C. The future is always clear for students.",
+          "D. Dreams and studying are not connected."
+        ],
+        "answer": "B",
+        "hint": "「guide you toward a future」＝将来へ導く。"
+      },
+      {
+        "type": "true_false",
+        "question": "True or False: It is important to search for the right job forever.",
+        "answer": "False",
+        "hint": "第二パラグラフの「Some just keep searching forever, without deciding」とあるが、それを大事だとは言っていない。"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Staying Calm and Performing Under Pressure",
+    "topic": "Health",
+    "level": "B1-B2",
+    "tone": "Serious, Encouraging",
+    "original": "Many people feel nervous before an exam or presentation. Under pressure, performance often goes down. Stress can make it hard to remember, speak clearly, or think logically. However, pressure itself is not always bad. People who get used to working under pressure can sometimes perform even better, especially if they are well prepared.\n\nPreparation is the key. If you study carefully and know your material, you can face tests or speeches with confidence. In addition, a simple breathing exercise can help control stress. One effective method is called 4-2-6 breathing: inhale deeply through your nose for 4 seconds, hold your breath for 2 seconds, and then exhale slowly through your mouth for 6 seconds. Repeat this several times while focusing on keeping your belly relaxed. This kind of abdominal breathing sends a signal to the body to calm down. When preparation and breathing come together, pressure can turn from an enemy into a friend.",
+    "simplified": "Before a test or presentation, many people feel nervous. Stress can make it hard to think or speak well. But pressure is not always bad. If you get used to it, and if you are prepared, you can do better.\n\nBeing ready is most important. If you study and know your topic, you feel more confident. Also, you can use a breathing exercise called 4-2-6 breathing. First, breathe in through your nose for 4 seconds, then hold it for 2 seconds, and breathe out slowly for 6 seconds. Do this a few times, and your body will relax. With good preparation and calm breathing, pressure can help you succeed.",
+    "questions": [
+      {
+        "type": "main_idea",
+        "question": "What is the main idea of this passage?",
+        "options": [
+          "A. Stress always makes performance better",
+          "B. Pressure can be managed with preparation and breathing",
+          "C. Tests and presentations are impossible without breathing exercises",
+          "D. Preparation is not important if you know the breathing method"
+        ],
+        "answer": "B",
+        "hint": "第一パラグラフと第二パラグラフを合わせて考えよう。「Preparation」と「Breathing」の両方が大事。"
+      },
+      {
+        "type": "vocabulary",
+        "question": "What does the word \"calm\" most likely mean in the sentence: 'This kind of abdominal breathing sends a signal to the body to calm down.'",
+        "options": [
+          "A. To become quiet and relaxed",
+          "B. To become louder and stronger",
+          "C. To stop breathing",
+          "D. To move very fast"
+        ],
+        "answer": "A",
+        "hint": "calm down＝リラックスして落ち着く。"
+      },
+      {
+        "type": "detail",
+        "question": "According to the passage, what are the steps of the 4-2-6 breathing method?",
+        "options": [
+          "A. Inhale for 4 seconds, hold for 2, exhale for 6",
+          "B. Inhale for 6 seconds, hold for 4, exhale for 2",
+          "C. Inhale for 5 seconds, hold for 5, exhale for 5",
+          "D. Inhale for 2 seconds, hold for 4, exhale for 6"
+        ],
+        "answer": "A",
+        "hint": "第二パラグラフの説明をよく読んでみよう。"
+      },
+      {
+        "type": "sentence_meaning",
+        "question": "What does this sentence mean? 'When preparation and breathing come together, pressure can turn from an enemy into a friend.'",
+        "options": [
+          "A. Pressure always disappears when you prepare",
+          "B. With good study and breathing, pressure can help you perform better",
+          "C. Pressure is never helpful, even with practice",
+          "D. Friends can only be found in stressful situations"
+        ],
+        "answer": "B",
+        "hint": "“enemy”と“friend”は比喩表現。どうやってプレッシャーを利用できる？"
+      },
+      {
+        "type": "true_false",
+        "question": "True or False: The passage says that preparation is not necessary if you know the 4-2-6 breathing method.",
+        "answer": "False",
+        "hint": "第一パラグラフと第二パラグラフを見て。「Preparation is the key」と書いてある。"
+      }
+    ]
+  }
 ]
