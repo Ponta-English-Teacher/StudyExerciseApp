@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import PassageViewer from './components/PassageViewer';
 import SelectionScreen from './components/SelectionScreen';
 import HowToUse from './components/HowToUse';
@@ -9,25 +9,38 @@ function App() {
   const [passages, setPassages] = useState([]);
   const [showHowToUse, setShowHowToUse] = useState(false);
 
+  // Load passages directly from the JSON (no dummy items)
   useEffect(() => {
-    const dummyPassages = [
-      ...readingData,
-      { id: 3, title: "Future Passage 1", level: "B2", topic: "Modern World" },
-      { id: 4, title: "Future Passage 2", level: "B1", topic: "Politics" },
-      { id: 5, title: "Future Passage 3", level: "B2", topic: "Medicine" }
-    ];
-    setPassages(dummyPassages);
+    setPassages(readingData);
   }, []);
 
-  const handleSelect = (id) => {
-    setSelectedPassageId(id);
-  };
+  // Dev helper: warn if there are duplicate IDs
+  useEffect(() => {
+    if (!passages?.length) return;
+    const counts = passages.reduce((m, p) => m.set(p.id, (m.get(p.id) || 0) + 1), new Map());
+    const dups = [...counts.entries()].filter(([, c]) => c > 1).map(([id]) => id);
+    if (dups.length) {
+      console.warn(
+        `[ReadingApp] Duplicate passage IDs detected: ${dups.join(', ')}. ` +
+        `Please ensure each "id" in src/data/reading.json is unique.`
+      );
+    }
+  }, [passages]);
 
-  const handleBack = () => {
-    setSelectedPassageId(null);
-  };
+  // Quick lookup by id (stable reference)
+  const passageById = useMemo(() => {
+    const map = new Map();
+    passages.forEach(p => {
+      // If duplicates exist, the first one wins; better to keep IDs unique.
+      if (!map.has(p.id)) map.set(p.id, p);
+    });
+    return map;
+  }, [passages]);
 
-  const selectedPassage = passages.find((p) => p.id === selectedPassageId);
+  const selectedPassage = selectedPassageId != null ? passageById.get(selectedPassageId) : null;
+
+  const handleSelect = (id) => setSelectedPassageId(id);
+  const handleBack = () => setSelectedPassageId(null);
 
   return (
     <div className="min-h-screen bg-gray-100 relative">
@@ -50,7 +63,7 @@ function App() {
 
       {/* Shared centered container for both pages */}
       <div className="max-w-4xl mx-auto p-4">
-        {selectedPassageId ? (
+        {selectedPassage ? (
           <PassageViewer passage={selectedPassage} onBack={handleBack} />
         ) : (
           <SelectionScreen passages={passages} onSelect={handleSelect} />
