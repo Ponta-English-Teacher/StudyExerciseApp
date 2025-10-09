@@ -712,5 +712,77 @@
         "hint": "第一パラグラフと第二パラグラフを見て。「Preparation is the key」と書いてある。"
       }
     ]
-  }
+  },
+  {
+  "id": 7,
+  "title": "Navigation, Memory, and AI Learning",
+  "topic": "Technology and Learning",
+  "level": "B2",
+  "tone": "Serious",
+  "original": "Before GPS and car navigation systems, drivers remembered how to reach their destinations by studying maps and noticing landmarks along the way. They built a network of roads, rivers, and shops in their minds, connecting each point like pieces of a puzzle. This process activated the hippocampus, the brain area that forms spatial memory—the understanding of how one place relates to another.\n\nWith navigation systems, people only follow spoken directions: \"Turn right,\" \"Go straight,\" \"You have arrived.\" They arrive easily but often cannot recall the route later. The brain uses a different, more automatic system, called procedural memory. It is fast but less connected. The map disappears as soon as the trip ends.\n\nThe same pattern appears in studying with AI. When students let AI think for them, they reach the answer without exploring the route. Quick results replace deep understanding. Technology can be a helpful guide, but real learning happens when students use AI to build their own map of ideas—connecting concepts, examples, and reasons in their mind.",
+  "simplified": "Before GPS, people used maps and remembered the way to go. They learned roads, rivers, and shops and made a picture in their mind of how one place connects to another. That part of the brain helps people understand space and direction.\n\nWhen people use navigation, they just follow the voice saying “Turn right” or “Go straight.” They can arrive, but they often forget the way because their brain does not connect the places together.\n\nAI study is similar. It gives answers quickly, but if we only follow it, we may forget how to think by ourselves. To learn well, we should use AI to make our own map of ideas and connect what we learn.",
+  "questions": [
+    {
+      "type": "mainIdea",
+      "question": "What is the main idea of this passage?",
+      "options": [
+        "A. Using navigation and AI always improves our life.",
+        "B. Technology may weaken how we learn and remember.",
+        "C. Paper maps are better than digital maps.",
+        "D. AI and navigation are completely different."
+      ],
+      "answer": "B",
+      "hint": "Think about what both navigation and AI examples show."
+    },
+    {
+      "type": "vocabulary",
+      "question": "What does the word “spatial” most likely mean in this passage?",
+      "options": [
+        "1. How things are placed or arranged in space",
+        "2. How to connect time and order",
+        "3. The ability to read maps",
+        "4. Something great or special"
+      ],
+      "answer": "1",
+      "hint": "It appears when describing memory for locations and directions."
+    },
+    {
+      "type": "detail",
+      "question": "According to the passage, what happens when people only follow navigation systems?",
+      "options": [
+        "A. They build stronger spatial memory",
+        "B. They usually remember the route clearly",
+        "C. They use less of the brain’s mapping function",
+        "D. They learn the area faster than before"
+      ],
+      "answer": "C",
+      "hint": "Which part of the brain becomes less active?"
+    },
+    {
+      "type": "sentenceMeaning",
+      "question": "What does this sentence mean? “AI can lead us to answers like a voice guiding us to a destination, but it cannot build the map inside our minds.”",
+      "options": [
+        "A. AI always gives wrong directions",
+        "B. Learning deeply requires thinking, not just receiving answers",
+        "C. Students should not use AI",
+        "D. The brain and AI work in exactly the same way"
+      ],
+      "answer": "B",
+      "hint": "Compare how people use AI and navigation."
+    },
+    {
+      "type": "comprehension",
+      "question": "Why does the author compare using navigation to studying with AI?",
+      "options": [
+        "A. Both can replace human thinking",
+        "B. Both help people learn more quickly and deeply",
+        "C. Both can make people stop building connections on their own",
+        "D. Both use the same part of the brain"
+      ],
+      "answer": "C",
+      "hint": "What is lost when people rely only on easy guidance?"
+    }
+  ]
+}
+
 ]
