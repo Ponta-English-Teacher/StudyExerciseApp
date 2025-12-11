@@ -9,6 +9,9 @@ function App() {
   const [passages, setPassages] = useState([]);
   const [showHowToUse, setShowHowToUse] = useState(false);
 
+  // NEW: visitor counter state
+  const [visitCount, setVisitCount] = useState(null);
+
   // Load passages directly from the JSON (no dummy items)
   useEffect(() => {
     setPassages(readingData);
@@ -17,12 +20,17 @@ function App() {
   // Dev helper: warn if there are duplicate IDs
   useEffect(() => {
     if (!passages?.length) return;
-    const counts = passages.reduce((m, p) => m.set(p.id, (m.get(p.id) || 0) + 1), new Map());
-    const dups = [...counts.entries()].filter(([, c]) => c > 1).map(([id]) => id);
+    const counts = passages.reduce(
+      (m, p) => m.set(p.id, (m.get(p.id) || 0) + 1),
+      new Map()
+    );
+    const dups = [...counts.entries()]
+      .filter(([, c]) => c > 1)
+      .map(([id]) => id);
     if (dups.length) {
       console.warn(
         `[ReadingApp] Duplicate passage IDs detected: ${dups.join(', ')}. ` +
-        `Please ensure each "id" in src/data/reading.json is unique.`
+          `Please ensure each "id" in src/data/reading.json is unique.`
       );
     }
   }, [passages]);
@@ -30,17 +38,45 @@ function App() {
   // Quick lookup by id (stable reference)
   const passageById = useMemo(() => {
     const map = new Map();
-    passages.forEach(p => {
+    passages.forEach((p) => {
       // If duplicates exist, the first one wins; better to keep IDs unique.
       if (!map.has(p.id)) map.set(p.id, p);
     });
     return map;
   }, [passages]);
 
-  const selectedPassage = selectedPassageId != null ? passageById.get(selectedPassageId) : null;
+  const selectedPassage =
+    selectedPassageId != null ? passageById.get(selectedPassageId) : null;
 
   const handleSelect = (id) => setSelectedPassageId(id);
   const handleBack = () => setSelectedPassageId(null);
+
+  // NEW: fetch visitor counter once on mount
+  useEffect(() => {
+    let cancelled = false;
+
+    async function fetchVisitCount() {
+      try {
+        const res = await fetch('/api/visit-counter');
+        if (!res.ok) {
+          console.warn('Visit counter API returned non-OK status:', res.status);
+          return;
+        }
+        const data = await res.json();
+        if (!cancelled && typeof data.visits === 'number') {
+          setVisitCount(data.visits);
+        }
+      } catch (err) {
+        console.error('Failed to fetch visit counter:', err);
+      }
+    }
+
+    fetchVisitCount();
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   return (
     <div className="min-h-screen bg-gray-100 relative">
@@ -52,6 +88,16 @@ function App() {
         >
           📘 使い方
         </button>
+      </div>
+
+      {/* NEW: simple visitor counter badge (top-right) */}
+      <div className="fixed top-4 right-4 z-40 text-xs">
+        <div className="bg-white bg-opacity-80 px-3 py-1 rounded shadow border border-gray-200">
+          Visitors:{' '}
+          <span className="font-semibold">
+            {visitCount === null ? '–' : visitCount}
+          </span>
+        </div>
       </div>
 
       {/* How to Use Modal */}
