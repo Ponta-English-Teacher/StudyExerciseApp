@@ -783,5 +783,71 @@
         "hint": "What is lost when people rely only on easy guidance?"
       }
     ]
-  }
+  },
+  {
+  "id": 12,
+  "title": "Trial and Error: The Real Power Behind Learning",
+  "topic": "Education",
+  "level": "B1-B2",
+  "tone": "Serious, Encouraging",
+  "original": "Many students hope that learning will follow a straight path and lead to success from the start. However, real learning almost never works that way. Every major skill humans have mastered—science, language, technology, art—has developed through repeated trial and error. When something does not work, the brain does not simply fail; instead, it becomes more active, looks for patterns, and builds stronger connections. As a result, understanding grows precisely because mistakes happen. Mistakes are not the opposite of success — they are part of it.\n\nThis pattern appears everywhere in life. A baby learns to walk by falling again and again. A scientist reaches a discovery only after many unsuccessful experiments. A language learner finally understands a grammar point after using it incorrectly several times. Failure is not a barrier; it is the method through which improvement becomes possible. Each error gives the brain new information, and each correction strengthens skill. Therefore, trial and error is not simply helpful—it is one of the most powerful engines of human learning.\n\nEducation should reflect this truth. It is not about avoiding mistakes but about creating a safe environment where mistakes can be made, examined, and transformed into understanding. When students realize that errors are essential—not embarrassing—they can learn with greater confidence, freedom, and curiosity. Trial and error is not a small part of education—it is the core of how learning really happens.",
+  "simplified": "Many students think learning should be a straight path without problems. However, real learning usually includes mistakes. When something does not work, we feel confused, but then we think, try again, and change our way. Because of this, our brains remember better. Mistakes help our brains grow.\n\nWe can see this in daily life. A baby learns to walk by falling many times. A scientist makes many failed experiments before a success. A language learner uses wrong grammar again and again, and then finally understands it. So, failure is not the end. It is the road to getting better.\n\nSchool should be a place where it is safe to make mistakes. Teachers can guide students, but students must also try, think, and change. When students know that mistakes are normal and important, they can learn with more confidence and curiosity. Trial and error is not just “okay” in education — it is at the center of learning.",
+  "questions": [
+    {
+      "type": "main_idea",
+      "question": "What is the main idea of this passage?",
+      "options": [
+        "Students should always avoid mistakes.",
+        "Real learning often happens through trial and error.",
+        "Only babies and scientists learn by failing.",
+        "Teachers, not students, are the center of learning."
+      ],
+      "answer": "Real learning often happens through trial and error.",
+      "hint": "第一パラグラフと最後のパラグラフの全体の意味を考えよう。learning の中心は何だと言っている？"
+    },
+    {
+      "type": "vocabulary",
+      "question": "In the sentence \"However, real learning almost never works that way,\" what does the connector \"However\" show?",
+      "options": [
+        "It gives an example.",
+        "It shows the time something happens.",
+        "It shows a contrast with the previous idea.",
+        "It repeats the same idea."
+      ],
+      "answer": "It shows a contrast with the previous idea.",
+      "hint": "前の文は「learning will follow a straight path and lead to success」。However はそれと反対の内容を始めている。"
+    },
+    {
+      "type": "detail",
+      "question": "According to the passage, which of the following is an example of learning through trial and error?",
+      "options": [
+        "A student who never makes mistakes on tests.",
+        "A baby who learns to walk by falling many times.",
+        "A teacher who always explains the correct answer first.",
+        "A scientist who stops after the first failed experiment."
+      ],
+      "answer": "A baby who learns to walk by falling many times.",
+      "hint": "第二パラグラフの具体例をもう一度読んでみよう。"
+    },
+    {
+      "type": "sentence_meaning",
+      "question": "What does this sentence mean? \"Failure is not a barrier; it is the method through which improvement becomes possible.\"",
+      "options": [
+        "If you fail, you should quit.",
+        "Failure helps you improve and grow.",
+        "Failure is the same as success.",
+        "Failure is more important than trying."
+      ],
+      "answer": "Failure helps you improve and grow.",
+      "hint": "前後の文を合わせて、trial and error の役わりを考えよう。"
+    },
+    {
+      "type": "true_false",
+      "question": "True or False: The passage says school should be a place where students never make mistakes.",
+      "answer": "False",
+      "hint": "最後のパラグラフを読むと、school は「mistakes をしない場所」ではなく、「mistakes から学ぶ場所」だと分かる。"
+    }
+  ]
+}
+
 ]
